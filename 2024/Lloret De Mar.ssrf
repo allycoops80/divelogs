@@ -47,8 +47,6 @@
 <site uuid='49a52f0e' name='P2 Wreck, Cirkewwa, Malta' gps='35.988500 14.326100'>
   <geo cat='2' origin='2' value='Malta'/>
 </site>
-<site uuid='4c0aa6f9' name='The Sl'>
-</site>
 <site uuid='4c6ed05f' name='Loch Fyne / St. Catherines' gps='56.226757 -5.019457'>
 </site>
 <site uuid='549d80df' name='Loch Fyne / Conger Alley' gps='56.191528 -4.777639'>
@@ -287,7 +285,6 @@ Accumulated dive time: 2h:10m</notes>
   </divecomputer>
 </dive>
 <dive number='6' rating='5' visibility='4' wavesize='5' current='5' surge='5' chill='4' sac='21.468 l/min' cns='4%' divesiteid='3e176444' watersalinity='1030 g/l' date='2017-05-21' time='14:30:00' duration='28:00 min'>
-  <divemaster>Thomas Duff</divemaster>
   <buddy>Thomas Duff</buddy>
   <notes>Tide: Not recorded
 Weather: Heavy cloud
@@ -1026,7 +1023,6 @@ Accumulated dive time: 9h47m</notes>
   <sample time='24:10 min' depth='5.0 m' />
   <sample time='26:00 min' depth='2.0 m' />
   </divecomputer>
-  <picture filename='/home/alan/Dropbox/diving/paper logs/Dive 0020 - 2018-01-28.png' offset='+3208361:43 min'/>
 </dive>
 <dive number='21' rating='5' sac='16.873 l/min' otu='2' cns='4%' divesiteid='837001ad' watersalinity='1030 g/l' date='2018-01-28' time='13:27:41' duration='33:00 min'>
   <divemaster>Gary Walinck</divemaster>
@@ -1409,23 +1405,42 @@ Accumulated dive time: 12h07m</notes>
   <sample time='28:20 min' depth='1.2 m' />
   </divecomputer>
 </dive>
-<dive number='26' rating='3' visibility='3' sac='20.572 l/min' divesiteid='635ec2f5' watersalinity='1030 g/l' date='2018-04-29' time='10:24:00' duration='35:00 min'>
-  <divemaster>Gary Walinck</divemaster>
-  <buddy>Lauren Ramage, Pamela Morley</buddy>
-  <notes>Tide: Flood
-Weather: Fair
+<dive number='26' rating='4' divesiteid='f9d67618' date='2018-04-11' time='21:00:15' duration='42:00 min'>
+  <divemaster>Dolphin Dive Centre</divemaster>
+  <buddy>Eva</buddy>
+  <notes>Weather: Sunny
 Sea: Calm
-Vis: 7m
+Visibility: 20m
+Temp: 14?
 
-Diving with Gary Walinck, Pam Morley and Lauren Ramage, Buddied with Lauren.
+On holiday with family for a short week in Lloret De Mar - didn't want to lose whole day, so a shore dive with Dolphin Dive Centre from the nearby beach was just perfect.
+Got log book and tickets checked and sized up for gear on the Monday when we stopped in to book and when I arrived at 8am on the Wednesday, we just had to load up the gear onto trailer pulled by a trail bike, put on the wet suit and jump in the van down to the beach and got kitted up with Eva.
+
+April in the Balearic sea in a wetsuit is COLD
+
+Lovely dive over the golden sands - lots of different varieties of colourful and bright silver fish and spotted a couple of lovely little nudibranches.
+
+As we were diving off a tourist beach, we both, unbeknown to each other, were actually collecting loads of bits of plastic and fishermens lead and line.
+
+Good fun, if slightly cold.</notes>
+  <divecomputer model='manually added dive' last-manual-time='42:00 min'>
+  <depth max='12.0 m' mean='11.12 m' />
+  <sample time='0:00 min' depth='0.0 m' />
+  <sample time='1:20 min' depth='12.0 m' />
+  <sample time='37:40 min' depth='12.0 m' />
+  <sample time='38:27 min' depth='5.0 m' />
+  <sample time='41:27 min' depth='5.0 m' />
+  <sample time='42:00 min' depth='0.0 m' />
+  </divecomputer>
+</dive>
+<dive number='27' rating='3' sac='20.572 l/min' divesiteid='635ec2f5' date='2018-04-29' time='10:24:00' duration='35:00 min'>
+  <buddy>Lauren Ramage, Pamela Morley</buddy>
+  <notes>Diving with Gary Walinck, Pam Morley and Lauren Ramage, Buddied with Lauren.
 First dive in new Otter tri-lam suit. Just used Harness weight and felt overweighted.
 Ended up swapping buddies early on as Gary had gone to assist Lauren with something - I stayed close to Pamela but lost sight of Gary &amp; Lauren.
 Dive brief had allowed for scenario so we were happy to continue on just staying to 15m
-Some very interesting life at east end of reef including squat lobsters. Eventually re-united with Gary and Lauren before surfacing.
-I was slightly nauseus on ascent.
-Surfacing was challenging as Pamela's fin had become loose, and she began an uncontrolled ascent but both managed to stay calm and got out the water without incident.
-
-Accumulated dive time: 12h42m</notes>
+Some very interesting life at east end of reef including squat lobsters. Eventually re-united with Gary and Lauren before surfacing. 
+Surfacing was challenging as Pamela's fin had become loose, and she began an uncontrolled ascent but both managed to stay calm and got out the water without incident.</notes>
   <cylinder size='12.0 l' workpressure='232.0 bar' start='210.0 bar' end='90.0 bar' />
   <divecomputer>
   <depth max='12.8 m' mean='8.264 m' />
@@ -1542,25 +1557,12 @@ Accumulated dive time: 12h42m</notes>
   <picture filename='https://divelogs.de/pictures/allycoops80/2407580-3.jpg'/>
   <picture filename='https://divelogs.de/pictures/allycoops80/2407580-4.jpg'/>
 </dive>
-<dive number='27' rating='3' visibility='2' sac='24.994 l/min' otu='1' cns='1%' divesiteid='635ec2f5' watersalinity='1030 g/l' date='2018-04-29' time='13:35:00' duration='36:00 min'>
-  <divemaster>Gary Walinck</divemaster>
+<dive number='28' rating='3' sac='24.994 l/min' otu='1' cns='1%' divesiteid='635ec2f5' date='2018-04-29' time='12:35:00' duration='36:00 min'>
   <buddy>Lauren Ramage, Pamela Morley</buddy>
-  <notes>Tide: Flood
-Weather: Calm
-Sea: Calm
-Vis: 4m
-
-Attempted dive lead and carried out SMB skill practice.
-Again, got slightly disoriented and separated from Gary again in poor visibility and ended up paired with Lauren and completed the dive as a pair, and Pam did her dive with Gary.
-
-Joined back up with Gary at 3m to do SMB skill.
-
-Didnt disengage ratchet quickly enough so made conscious decison not to release it. Had I been deeper I'd have let it go.
-Recovered well &amp; ascended.
-
-Accumulated dive time: 13h18m</notes>
+  <notes>Attempted dive lead and carried out SMB skill practice.
+Again, seperated in poor visibility and ended up paired with Lauren and completed the dive as a pair, and Pam did her dive with Gary.</notes>
   <cylinder size='12.0 l' workpressure='232.0 bar' start='230.0 bar' end='70.0 bar' />
-  <divecomputer date='2018-04-29' time='12:35:00'>
+  <divecomputer>
   <depth max='16.2 m' mean='9.411 m' />
   <temperature air='18.0 C' water='8.0 C' />
   <sample time='0:00 min' depth='0.0 m' />
@@ -1674,13 +1676,11 @@ Accumulated dive time: 13h18m</notes>
   <sample time='36:00 min' depth='2.1 m' />
   </divecomputer>
 </dive>
-<dive number='28' rating='4' divesiteid='ede33e99' watersalinity='1000 g/l' date='2018-05-13' time='09:18:00' duration='35:20 min'>
+<dive number='29' rating='4' divesiteid='ede33e99' date='2018-05-13' time='09:18:00' duration='35:20 min'>
   <buddy>Alan Bews, Kerr Hamilton</buddy>
   <notes>First dive at Capernwray. Shore entry, swam around past lord lucan and did a shared ascent with Kerr for Sport Diver training. Came back down and continued dive.
 
-Safe to say my introduction to Capernwray was not a good one - first attempt cancelled due to snow, a day late for this re-scheduled trip due to work being done on van and being in London with work and when I arrived in Lancaster on the Saturday night I found my room had been given away so ended sharing a room with Kerr and Alan.
-
-Accumulated dive time: 13h53m</notes>
+Safe to say my introduction to Capernwray was not a good one - first attempt cancelled due to snow, a day late for this re-scheduled trip due to work being done on van and being in London with work and when I arrived in Lancaster on the Saturday night I found my room had been given away so ended sharing a room with Kerr and Alan.</notes>
   <cylinder size='12.0 l' workpressure='232.0 bar' />
   <divecomputer>
   <depth max='11.9 m' mean='6.714 m' />
@@ -1793,13 +1793,10 @@ Accumulated dive time: 13h53m</notes>
   <sample time='35:00 min' depth='1.524 m' />
   <sample time='35:20 min' depth='0.0 m' />
   </divecomputer>
-  <picture filename='/home/alan/Dropbox/diving/paper logs/Dive 0028 - 2018-05-13.png' offset='+3057280:05 min'/>
 </dive>
-<dive number='29' rating='4' otu='3' cns='3%' divesiteid='ede33e99' watersalinity='1000 g/l' date='2018-05-13' time='11:20:00' duration='38:00 min'>
+<dive number='30' rating='4' otu='3' cns='3%' divesiteid='ede33e99' date='2018-05-13' time='11:20:00' duration='38:00 min'>
   <buddy>Alan Bews, Kerr Hamilton</buddy>
-  <notes>Jump entry from pier. Bimble about finding landmarks. Went through aeroplane and came around. Just after leaving plane, Kerr and Alan's path diverged in very poor vis. I was closer to Kerr so immediately caught up with Kerr and signalled that we lost Alan. We spent 1 minute back to back trying to see Alan, then did a controlled ascent with safety spot and found Alan at surface. As we hadn't been down long we agreed to finish dive.
-
-Accumulated dive time: 14h31m</notes>
+  <notes>Jump entry from pier. Bimble about finding landmarks. Went through aeroplane and came around. Just after leaving plane, Kerr and Alan's path diverged in very poor vis. I was closer to Kerr so immediately caught up with Kerr and signalled that we lost Alan. We spent 1 minute back to back trying to see Alan, then did a controlled ascent with safety spot and found Alan at surface. As we hadn't been down long we agreed to finish dive.</notes>
   <cylinder size='12.0 l' workpressure='232.0 bar' />
   <divecomputer>
   <depth max='17.4 m' mean='12.171 m' />
@@ -1922,15 +1919,13 @@ Accumulated dive time: 14h31m</notes>
   <sample time='38:20 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='30' rating='5' otu='1' cns='2%' divesiteid='ede33e99' date='2018-05-13' time='13:30:00' duration='39:40 min'>
+<dive number='31' rating='5' otu='1' cns='2%' divesiteid='ede33e99' date='2018-05-13' time='13:30:00' duration='39:40 min'>
   <buddy>Alan Bews</buddy>
   <notes>During surface interval met with a Divemaster from a local club who was looking for a buddy for a last dive.
 Given the excitement in previous dive I thought this was a good excuse to not have to tackle another ascent.
 Shore entry and Alan led for a good paced bimble right around the quarry.
 Quite hard going and legs were tired by the end.
-Topped up the divemasters car who was critically low on oil and made my way home.
-
-Accumulated dive time: 15h11m</notes>
+Topped up the divemasters car who was critically low on oil and made my way home.</notes>
   <cylinder size='12.0 l' workpressure='232.0 bar' />
   <divecomputer>
   <depth max='16.2 m' mean='8.557 m' />
@@ -2056,10 +2051,8 @@ Accumulated dive time: 15h11m</notes>
   <sample time='39:20 min' depth='2.743 m' />
   <sample time='39:40 min' depth='0.0 m' />
   </divecomputer>
-  <picture filename='/home/alan/Dropbox/diving/paper logs/Dive 0030 - 2018-05-13.png' offset='+3057027:59 min'/>
 </dive>
-<dive number='31' rating='5' sac='23.181 l/min' otu='1' cns='2%' divesiteid='6456a603' watersalinity='1030 g/l' date='2018-06-16' time='08:23:00' duration='32:20 min'>
-  <divemaster>Russell Leitch</divemaster>
+<dive number='32' rating='5' sac='23.181 l/min' otu='1' cns='2%' divesiteid='6456a603' date='2018-06-16' time='08:23:00' duration='32:20 min'>
   <buddy>Russell Leitch</buddy>
   <notes>Saturday morning dive trip with Russell to get back in the water after a bit of layoff.
 Nice early start got us at finnart for about 8am and in the water for 8.20
@@ -2069,9 +2062,7 @@ Forgot batteries for dive torch - big thanks to Russell's spare for saving the d
 Dive itself was great - entered from pontoon and went out on ~330 bearing until we passed the third large beam, turned whttps://twitter.com/ScotlandDXesterley to head towards oil terminal at 15m (briefly dropping to 16.2m due to following wildlife), turned and came back long the reef until we came to the mess of cables where we headed back to our entry point and came up on Russell's SMB - was very happy with my ascent
 First life we saw were a number of moon jellyfish, which had a beautiful blue pulsing light going through them when a torch was shone on them.
 Sea bed had a lot of life with loads of squat lobsters, crabs as well as some small cod swimming about.
-Just before we ascended saw what looked like a huge crab tucked away under a rock.
-
-Accumulated dive time: 15h43m</notes>
+Just before we ascended saw what looked like a huge crab tucked away under a rock.</notes>
   <cylinder size='12.0 l' workpressure='232.0 bar' description='12ℓ 232 bar' start='220.0 bar' end='70.0 bar' />
   <divecomputer>
   <depth max='16.2 m' mean='12.022 m' />
@@ -2175,15 +2166,12 @@ Accumulated dive time: 15h43m</notes>
   <sample time='32:00 min' depth='3.658 m' />
   <sample time='32:20 min' depth='0.0 m' />
   </divecomputer>
-  <picture filename='/home/alan/Dropbox/diving/paper logs/Dive 0031 - 2018-06-16.png' offset='+3008375:00 min'/>
 </dive>
-<dive number='32' rating='5' sac='17.193 l/min' cns='2%' divesiteid='6456a603' date='2018-06-16' time='10:13:00' duration='31:40 min'>
+<dive number='33' rating='5' sac='17.193 l/min' cns='2%' divesiteid='6456a603' date='2018-06-16' time='10:13:00' duration='31:40 min'>
   <buddy>Russell Leitch</buddy>
   <notes>2nd dive of the day with Russell.
 Same dive plan as first dive.
-Tide had come in so didn't see just as much life but still a very nice bimble just enjoying being in the water
-
-Accumulated dive time: 16h15m</notes>
+Tide had come in so didn't see just as much life but still a very nice bimble just enjoying being in the water</notes>
   <cylinder size='12.0 l' workpressure='232.0 bar' description='unknown' start='220.0 bar' end='115.0 bar' />
   <divecomputer>
   <depth max='15.5 m' mean='10.613 m' />
@@ -2286,8 +2274,7 @@ Accumulated dive time: 16h15m</notes>
   <sample time='31:40 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='33' rating='5' sac='24.371 l/min' divesiteid='e5603f8b' date='2018-06-20' time='19:01:00' duration='35:28 min'>
-  <divemaster>Gordon Laing</divemaster>
+<dive number='34' rating='5' sac='24.371 l/min' divesiteid='e5603f8b' date='2018-06-20' time='19:01:00' duration='35:28 min'>
   <buddy>Gordon Laing, Kath Ryan</buddy>
   <notes>Training dive at Prestonfield Quary, Inverkeithing.
 Overweighted with a 2Kg block over usual harness. We descended, Kath had an issue with mask and weights - I sank like a rock and struggled to get back up.
@@ -2295,10 +2282,7 @@ Dove with Kath and Gordon - went around the quarry anti-clockwise, saw the cars 
 
 Successfully put up DSMB and got skill signed.  Went up fine to about 6m and lost control a bit - realised had forgot to vent BCD  after adding some to ascend at start of dive.
 
-Really enjoyable dive all in all.
-
-
-Accumulated dive time: 16h52m</notes>
+Really enjoyable dive all in all.</notes>
   <cylinder size='12.0 l' workpressure='232.0 bar' description='unknown' start='210.0 bar' end='70.0 bar' />
   <divecomputer>
   <depth max='11.0 m' mean='7.957 m' />
@@ -2421,8 +2405,7 @@ Accumulated dive time: 16h52m</notes>
   <sample time='36:25 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='34' rating='5' sac='37.305 l/min' otu='3' cns='2%' divesiteid='549d80df' date='2018-06-22' time='10:25:00' duration='40:00 min'>
-  <divemaster>Donald Ralston</divemaster>
+<dive number='35' rating='5' sac='37.305 l/min' otu='3' cns='2%' divesiteid='549d80df' date='2018-06-22' time='10:25:00' duration='40:00 min'>
   <buddy>Donald Ralston</buddy>
   <notes>one-on-one dive with Donald who had just become BDO.
 Dive followed plan perfectly - headed out at right angles to shore.
@@ -2432,9 +2415,7 @@ Zigzagged along the reef - two big lovely wrass were out and about watching thei
 
 Sadly no more eels.
 
-Safety stops went well and easy shore exit.
-
-Accumulated dive time: 17h32m</notes>
+Safety stops went well and easy shore exit.</notes>
   <cylinder size='24.0 l' workpressure='232.0 bar' description='D12 232 bar' start='210.0 bar' end='70.0 bar' />
   <divecomputer>
   <depth max='19.8 m' mean='10.808 m' />
@@ -2562,7 +2543,7 @@ Accumulated dive time: 17h32m</notes>
   <sample time='40:00 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='35' rating='5' divesiteid='549d80df' date='2018-06-27' time='12:37:00' duration='13:00 min'>
+<dive number='36' rating='5' divesiteid='549d80df' date='2018-06-27' time='12:37:00' duration='13:00 min'>
   <buddy>Donald Ralston</buddy>
   <notes>Removed 1Kg from set up prior to entering water.
 
@@ -2578,9 +2559,7 @@ Surfaced safely and exited water.
 
 Checked over kit immediately on shore and nothing obvious. Went right up andd dekitted at car. Only when dekitted and weight harness removed did we realise I had actually lost a 7Kg weight pouch from my harness, presumably when putting fins on.
 
-Went back down to shore - 3 snorkerers were in water and one very kindly managed to recover my weight pouch intact in the shallows - definitely owe that man a beer!
-
-Accumulated dive time: 17h45m</notes>
+Went back down to shore - 3 snorkerers were in water and one very kindly managed to recover my weight pouch intact in the shallows - definitely owe that man a beer!</notes>
   <cylinder workpressure='198.0 bar' description='unknown' />
   <divecomputer date='2018-06-22' time='12:37:00'>
   <depth max='8.5 m' mean='5.838 m' />
@@ -2627,7 +2606,7 @@ Accumulated dive time: 17h45m</notes>
   <sample time='13:00 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='36' rating='5' sac='27.004 l/min' divesiteid='e2874e92' date='2018-06-27' time='19:19:00' duration='36:20 min'>
+<dive number='37' rating='5' sac='27.004 l/min' divesiteid='e2874e92' date='2018-06-27' time='19:19:00' duration='36:20 min'>
   <buddy>James Nimmo</buddy>
   <notes>*George Martin's first open water dive*
 Wednesday night training dive - drobe up with Jamie.
@@ -2641,9 +2620,7 @@ Also, I need to read computer more carefully - I keep reading max depth as curre
 
 After re-descending had a nice bimble about with Jamie. Shoals of perch going about, maybe a couple of dozen perch, and some really large perch.
 
-Saw what looked like very young pike going about in the weed.
-
-Accumulated dive time: 18h21m</notes>
+Saw what looked like very young pike going about in the weed.</notes>
   <cylinder size='12.0 l' workpressure='232.0 bar' description='12ℓ 232 bar' start='220.0 bar' end='70.0 bar' />
   <weightsystem weight='16.0 kg' description='unknown' />
   <divecomputer>
@@ -2761,15 +2738,12 @@ Accumulated dive time: 18h21m</notes>
   <sample time='36:20 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='37' rating='5' sac='20.637 l/min' otu='1' cns='1%' divesiteid=' f22e6b3' date='2018-07-01' time='09:04:00' duration='42:10 min'>
-  <divemaster>Donald Ralston</divemaster>
+<dive number='38' rating='5' sac='20.637 l/min' otu='1' cns='1%' divesiteid=' f22e6b3' date='2018-07-01' time='09:04:00' duration='42:10 min'>
   <buddy>Russell Leitch</buddy>
   <notes>Sunday dive trip to Twin Piers with Russell, Donald and Fraser who came along and kindly did shore cover.
 
 First dive began with another 10m rescue attempt, with Russell as victim. 
-Rescue was successful - far more controlled that previous dive at Prestonfield - and managed to get Russell up safely after a slight false start after dumping too much as we began ascending.
-
-Accumulated dive time: 19h03m</notes>
+Rescue was successful - far more controlled that previous dive at Prestonfield - and managed to get Russell up safely after a slight false start after dumping too much as we began ascending.</notes>
   <cylinder size='12.0 l' workpressure='232.0 bar' description='Faber' start='220.0 bar' end='70.0 bar' />
   <divecomputer>
   <depth max='17.1 m' mean='8.963 m' />
@@ -3034,15 +3008,12 @@ Accumulated dive time: 19h03m</notes>
   <picture filename='https://divelogs.de/pictures/allycoops80/2418871-3.jpg'/>
   <picture filename='https://divelogs.de/pictures/allycoops80/2418871-4.jpg'/>
 </dive>
-<dive number='38' rating='5' sac='23.773 l/min' otu='1' cns='1%' divesiteid=' f22e6b3' date='2018-07-01' time='11:15:00' duration='40:40 min'>
-  <divemaster>Donald Ralston</divemaster>
+<dive number='39' rating='5' sac='23.773 l/min' otu='1' cns='1%' divesiteid=' f22e6b3' date='2018-07-01' time='11:15:00' duration='40:40 min'>
   <buddy>Donald Ralston</buddy>
   <notes>Fun dive, with myself acting as dive lead.
 Went down to 10m and turned along to find the reef then zigzagged back.
 Pleasant dive with plenty of life.
-Bouyancy wasn't great, I think due to thinking more about leading the dive.
-
-Accumulated dive time: 19h43m</notes>
+Bouyancy wasn't great, I think due to thinking more about leading the dive.</notes>
   <cylinder size='12.0 l' workpressure='232.0 bar' description='Steel' start='230.0 bar' end='60.0 bar' />
   <weightsystem weight='17.0 kg' description='unknown' />
   <divecomputer>
@@ -3295,7 +3266,7 @@ Accumulated dive time: 19h43m</notes>
   <sample time='40:40 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='39' rating='5' sac='15.239 l/min' otu='1' cns='1%' divesiteid='244d55a9' date='2018-07-12' time='11:18:00' duration='52:50 min'>
+<dive number='40' rating='5' sac='15.239 l/min' otu='1' cns='1%' divesiteid='244d55a9' date='2018-07-12' time='11:18:00' duration='52:50 min'>
   <buddy>Kimberley Cunningham</buddy>
   <notes>PADI Dive with Diver's Cove from Sagres Harbour.
 1hr drive from resort to Sagres, passing Storks and I think the Zoo I visited years ago.
@@ -3304,9 +3275,7 @@ Pre-dive brief agreed to buddy with Kimberley with us immediatelly following div
 Tricky start as Kimberley was underweighted and had sore ears but some time and an extra 2Kg got that sorted out.
 Nice gentle circle around harbour are, taking in the man-made harbour wall and cliff edge. Lots of sea slugs, a couple of nudibranches some fish and a well camoflaged Octopus to be seen.
 Prior to surfacing we came across two lobsters pots with octopus caught that the dive lead tried to free - only managed to free the second, the first refused to leave.
-Upon surfacing, a couple of people managed to get aboard boat before it lost it's anchor, so we had to spend 10-15 minutes chasing the boat prior to getting aboard.
-
-Accumulated dive time: 20h36m</notes>
+Upon surfacing, a couple of people managed to get aboard boat before it lost it's anchor, so we had to spend 10-15 minutes chasing the boat prior to getting aboard.</notes>
   <cylinder size='12.0 l' workpressure='232.0 bar' start='200.0 bar' end='60.0 bar' />
   <divecomputer>
   <depth max='18.0 m' mean='9.524 m' />
@@ -3631,7 +3600,7 @@ Accumulated dive time: 20h36m</notes>
   <sample time='52:50 min' depth='3.0 m' />
   </divecomputer>
 </dive>
-<dive number='40' rating='5' cns='1%' divesiteid='f10cad7a' date='2018-07-12' time='14:17:00' duration='35:30 min'>
+<dive number='41' rating='5' cns='1%' divesiteid='f10cad7a' date='2018-07-12' time='14:17:00' duration='35:30 min'>
   <buddy>Kimberley Cunningham</buddy>
   <notes>PADI Dive with Diver's Cove from Sagres Harbour.
 2nd dive of the day from Sagres Harbour. 
@@ -3648,10 +3617,7 @@ Dive lead said he'd never experienced anything like it at that site and later re
 Learnings: 
  - Don't have blind faith in dive lead, should have been trying to get low under the current much earlier
  - I shouldn't have let us come up without safety stop: there was no reason we couldn't have got further from the cliff wall and done at least a 1 minute safety.
- - Need to see if dive computer can be made louder - I was unaware of the SLOWS being given.
-
-
-Accumulated dive time: 21h12m</notes>
+ - Need to see if dive computer can be made louder - I was unaware of the SLOWS being given.</notes>
   <cylinder size='12.0 l' workpressure='232.0 bar' start='210.0 bar' />
   <divecomputer>
   <depth max='14.3 m' mean='10.858 m' />
@@ -3873,7 +3839,7 @@ Accumulated dive time: 21h12m</notes>
   </divecomputer>
   <picture filename='https://divelogs.de/pictures/allycoops80/2425758-1.JPG'/>
 </dive>
-<dive number='41' rating='5' sac='33.824 l/min' otu='2' cns='1%' divesiteid='549d80df' date='2018-07-29' time='09:13:00' duration='24:50 min'>
+<dive number='42' rating='5' sac='33.824 l/min' otu='2' cns='1%' divesiteid='549d80df' date='2018-07-29' time='09:13:00' duration='24:50 min'>
   <buddy>Gordon Laing</buddy>
   <notes>First dive on new 15l tank.
 Went with my thinner Scubapro undersuit and 17Kg of weight.
@@ -3886,9 +3852,7 @@ After that we continues along and up the reef when Gordon again indicated out of
 
 By the time we finsihed the 2nd ascent and surfaced, we found the current had carried us quite a bit down the loch and out, with a reasonable swim in required.
 
-Delighted to get a couple of dive lead dives done and last open water skills signed off for Sports Diver.
-
-Accumulated dive time: 21h37m</notes>
+Delighted to get a couple of dive lead dives done and last open water skills signed off for Sports Diver.</notes>
   <cylinder size='15.0 l' workpressure='232.0 bar' description='15ℓ 232 bar' start='220.0 bar' end='90.0 bar' />
   <divecomputer>
   <depth max='20.1 m' mean='11.038 m' />
@@ -4045,7 +4009,7 @@ Accumulated dive time: 21h37m</notes>
   <sample time='24:50 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='42' rating='5' sac='17.412 l/min' otu='1' cns='2%' divesiteid='549d80df' date='2018-07-29' time='11:16:00' duration='32:10 min'>
+<dive number='43' rating='5' sac='17.412 l/min' otu='1' cns='2%' divesiteid='549d80df' date='2018-07-29' time='11:16:00' duration='32:10 min'>
   <buddy>Gordon Laing</buddy>
   <notes>Great fun second dive.
 Again shore entry but turned right at 15m to look for small reef. Couldn't find it so doubled back to find big reef.
@@ -4056,9 +4020,7 @@ After that we found the large crab I thought I saw on the previous deve, I spott
 
 Surfaced, did a quick weight check which showed on my 12l with the Scubapro undersuit, I'm fine with 16Kg
 
-Really fun dive.
-
-Accumulated dive time: 22h09m</notes>
+Really fun dive.</notes>
   <cylinder size='12.0 l' workpressure='232.0 bar' description='12ℓ 232 bar' start='220.0 bar' end='110.0 bar' />
   <weightsystem weight='16.0 kg' description='unknown' />
   <divecomputer>
@@ -4260,7 +4222,7 @@ Accumulated dive time: 22h09m</notes>
   <sample time='32:10 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='43' rating='5' sac='20.542 l/min' divesiteid='e2874e92' date='2018-08-15' time='19:24:00' duration='29:00 min'>
+<dive number='44' rating='5' sac='20.542 l/min' divesiteid='e2874e92' date='2018-08-15' time='19:24:00' duration='29:00 min'>
   <buddy>Gordon Laing</buddy>
   <notes>This trip was initially cancelled due to bad weather forecast that never materialised, so Gordon Laing and I, with Tracey &amp; Sam for shore cover, managed to make our way to the quarry after work to get my final skill, SDO4, signed off and my last dive lead.
 
@@ -4268,9 +4230,7 @@ Led the dive from a shore entry. Navigated the perimeter of ther quarry and head
 
 First attempt I ascended too quickly and lost control of the lift somewhat. Corrected it before surfacing and we tried again and did in far more calmly and controlled.
 
-After that it was a bimble in and headed home.
-
-Accumulated dive time: 22h38m</notes>
+After that it was a bimble in and headed home.</notes>
   <cylinder size='12.0 l' workpressure='232.0 bar' description='12ℓ 232 bar' start='220.0 bar' end='120.0 bar' />
   <divecomputer>
   <depth max='10.7 m' mean='7.864 m' />
@@ -4452,7 +4412,7 @@ Accumulated dive time: 22h38m</notes>
   <sample time='29:00 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='44' rating='5' sac='14.302 l/min' otu='7' cns='3%' divesiteid='189b9777' date='2018-08-19' time='14:58:00' duration='44:20 min'>
+<dive number='45' rating='5' sac='14.302 l/min' otu='7' cns='3%' divesiteid='189b9777' date='2018-08-19' time='14:58:00' duration='44:20 min'>
   <buddy>Donald Ralston</buddy>
   <notes>Afternoon dive after Eyemouth trip was cancelled.
 Van share up with Jamie
@@ -4460,9 +4420,7 @@ Buddied with Donald.
 
 Visibility was suprisingly good, good dive - nice view of some small fish as well as a huge Lobster
 
-No incidents of note and no big learning points.
-
-Accumulated dive time: 23h22m</notes>
+No incidents of note and no big learning points.</notes>
   <cylinder size='15.0 l' workpressure='232.0 bar' description='15ℓ 232 bar' start='220.0 bar' end='110.0 bar' />
   <weightsystem weight='16.0 kg' description='unknown' />
   <divecomputer>
@@ -4737,15 +4695,13 @@ Accumulated dive time: 23h22m</notes>
   <sample time='44:20 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='45' rating='5' sac='14.476 l/min' otu='4' cns='4%' divesiteid='189b9777' date='2018-08-19' time='16:59:00' duration='45:20 min'>
+<dive number='46' rating='5' sac='14.476 l/min' otu='4' cns='4%' divesiteid='189b9777' date='2018-08-19' time='16:59:00' duration='45:20 min'>
   <buddy>Donald Ralston</buddy>
   <notes>Second dive of the day.
 
 Dropped down to 23/24m to try and find the furthest most frame. Found the area quite crowded with divers so came back up to ~15 minutes and came across the reef there.
 
-Again, good vis, some nice wildlife including spotting a huge Conger Eels hiding, just popping his head out from the frame.
-
-Accumulated dive time: 24h07m</notes>
+Again, good vis, some nice wildlife including spotting a huge Conger Eels hiding, just popping his head out from the frame.</notes>
   <cylinder size='12.0 l' workpressure='232.0 bar' description='12ℓ 232 bar' start='220.0 bar' end='90.0 bar' />
   <weightsystem weight='16.0 kg' description='unknown' />
   <divecomputer>
@@ -5026,17 +4982,15 @@ Accumulated dive time: 24h07m</notes>
   <sample time='45:20 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='46' rating='5' sac='30.424 l/min' otu='4' cns='5%' divesiteid='ad6b67c4' date='2018-09-01' time='08:29:02' duration='43:00 min'>
+<dive number='47' rating='5' sac='30.647 l/min' otu='4' cns='5%' divesiteid='ad6b67c4' date='2018-09-01' time='08:29:02' duration='42:17 min'>
   <buddy>Donald Ralston</buddy>
   <notes>Early dive with Donald, Jamie and Colin.
 Really bad viz - snottery looking plankton everywhere and we nearly ran into a Jellyfish as we started to descend.
 
-Decent enough dive apart from Mask flooding constantly
-
-Accumulated dive time: 24h50m</notes>
+Decent enough dive apart from Mask flooding constantly</notes>
   <cylinder size='24.0 l' workpressure='232.0 bar' description='D12 232 bar' start='210.0 bar' end='70.0 bar' />
   <divecomputer>
-  <depth max='18.0 m' mean='13.738 m' />
+  <depth max='18.0 m' mean='13.966 m' />
   <sample time='0:00 min' depth='0.0 m' />
   <sample time='0:59 min' depth='9.0 m' />
   <sample time='1:58 min' depth='18.0 m' />
@@ -5080,22 +5034,17 @@ Accumulated dive time: 24h50m</notes>
   <sample time='39:20 min' depth='6.045 m' />
   <sample time='40:19 min' depth='5.0 m' />
   <sample time='41:18 min' depth='5.0 m' />
-  <sample time='43:00 min' depth='1.0 m' />
+  <sample time='42:17 min' depth='5.0 m' />
   </divecomputer>
 </dive>
-<dive number='47' rating='5' otu='4' cns='7%' divesiteid='ad6b67c4' watersalinity='1030 g/l' date='2018-09-01' time='10:30:35' duration='46:00 min'>
-  <divemaster>Gordon Laing</divemaster>
+<dive number='48' rating='5' otu='4' cns='7%' divesiteid='ad6b67c4' date='2018-09-01' time='10:30:35' duration='44:28 min'>
   <buddy>Donald Ralston</buddy>
-  <notes>As per dive 46 but found big conger and big lobster hiding under rocks near one another. Wasn't keen on the conger as he had perfect strike position on me so kept my distance.
+  <notes>As per dive 46 but found big conger and big obster hiding under rocks near one another. Wasn't keen on the conger as he had perfect strike position on me so kept my distance.
 
-Beautiful shoal of pollock congregating above the big vertical rock towards top of reef.
-
-Accumulated dive time: 0:25:36</notes>
+Beautiful shoal of pollock congregating above the big vertical rock towards top of reef.</notes>
   <cylinder size='11.1 l' workpressure='207.0 bar' description='unknown' />
-  <cylinder size='12.0 l' workpressure='232.0 bar' description='12ℓ 232 bar' start='220.0 bar' end='80.0 bar' depth='65.734 m' />
-  <divetemperature water='11.0 C'/>
   <divecomputer>
-  <depth max='18.0 m' mean='13.651 m' />
+  <depth max='18.0 m' mean='14.034 m' />
   <sample time='0:00 min' depth='0.0 m' />
   <sample time='0:58 min' depth='9.0 m' />
   <sample time='1:56 min' depth='18.0 m' />
@@ -5142,10 +5091,10 @@ Accumulated dive time: 0:25:36</notes>
   <sample time='41:34 min' depth='6.045 m' />
   <sample time='42:32 min' depth='5.0 m' />
   <sample time='43:30 min' depth='5.0 m' />
-  <sample time='46:00 min' depth='2.0 m' />
+  <sample time='44:28 min' depth='5.0 m' />
   </divecomputer>
 </dive>
-<dive number='48' rating='3' sac='19.427 l/min' otu='2' cns='3%' divesiteid='38b6d6df' date='2018-09-15' time='11:51:00' duration='50:50 min'>
+<dive number='49' rating='3' sac='19.427 l/min' otu='2' cns='3%' divesiteid='38b6d6df' date='2018-09-15' time='11:51:00' duration='50:50 min'>
   <divemaster>Alan Cooper</divemaster>
   <buddy>Colin Scott</buddy>
   <notes>Carrick Castle trip expedition with club - 11 divers in total
@@ -5160,9 +5109,7 @@ I got anxious and started to really doubt my compass bearings. At this point put
 
 LOOOONG swim in followed 
 
-Learning - write my bearings down on wrist slate when navigating so I have something for reassurance.
-
-Accumulated dive time: 0:26:27</notes>
+Learning - write my bearings down on wrist slate when navigating so I have something for reassurance.</notes>
   <cylinder size='15.0 l' workpressure='232.0 bar' description='15ℓ 232 bar' start='210.0 bar' end='60.0 bar' />
   <divecomputer>
   <depth max='16.8 m' mean='11.164 m' />
@@ -5475,7 +5422,7 @@ Accumulated dive time: 0:26:27</notes>
   <sample time='50:50 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='49' rating='4' sac='17.766 l/min' otu='1' cns='3%' divesiteid='38b6d6df' date='2018-09-15' time='14:33:00' duration='36:30 min'>
+<dive number='50' rating='4' sac='17.766 l/min' otu='1' cns='3%' divesiteid='38b6d6df' date='2018-09-15' time='14:33:00' duration='36:30 min'>
   <divemaster>Alan Cooper</divemaster>
   <buddy>Colin Scott</buddy>
   <notes>Reverse of previous dive.
@@ -5484,9 +5431,7 @@ Wrote up bearings on wrist slate and apart from coming in a little early and cat
 
 Good dive - felt I led Colin well and kept him calm, including keeping him out the road of a massive Lions Mane jellyfish.
 
-Passed Kimberley on way in to shore who was heading out with Gordon.
-
-Accumulated dive time: 0:27:04</notes>
+Passed Kimberley on way in to shore who was heading out with Gordon.</notes>
   <cylinder size='12.0 l' workpressure='232.0 bar' description='12ℓ 232 bar' start='210.0 bar' end='90.0 bar' />
   <divecomputer>
   <depth max='15.5 m' mean='10.28 m' />
@@ -5713,14 +5658,12 @@ Accumulated dive time: 0:27:04</notes>
   <sample time='36:30 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='50' rating='5' sac='37.561 l/min' otu='9' cns='4%' divesiteid='240c9374' date='2018-09-30' time='10:26:00' duration='49:20 min'>
+<dive number='51' rating='5' sac='37.561 l/min' otu='9' cns='4%' divesiteid='240c9374' date='2018-09-30' time='10:26:00' duration='49:20 min'>
   <divemaster>Alan Cooper</divemaster>
   <buddy>Alan Bews</buddy>
   <notes>Expedition to Ballachulish slates organised by myself with the intention of getting a 30m+ dive for myself and Lauren Ramage before we went to Mull for similarly deep dives.
 
-Carried out as planned - AlanB headed out, through the slight natural passageway to the right of the slate wall, down to depth and the headed east alomng the loch, gradually coming up the seabed till we hit the reefs - swam out, found the two anchors and headed right back, gently rising and degassing - we got back to the slate wall with plenty air and planned time so we went round the peninsula, had a look around the slate wall for a bit and back to the shore, running my air down to 50 bar
-
-Accumulated dive time: 0:27:53</notes>
+Carried out as planned - AlanB headed out, through the slight natural passageway to the right of the slate wall, down to depth and the headed east alomng the loch, gradually coming up the seabed till we hit the reefs - swam out, found the two anchors and headed right back, gently rising and degassing - we got back to the slate wall with plenty air and planned time so we went round the peninsula, had a look around the slate wall for a bit and back to the shore, running my air down to 50 bar</notes>
   <cylinder size='30.0 l' workpressure='232.0 bar' description='D15 232 bar' start='215.0 bar' end='50.0 bar' />
   <divecomputer>
   <depth max='34.4 m' mean='14.846 m' />
@@ -6024,16 +5967,13 @@ Accumulated dive time: 0:27:53</notes>
   <sample time='49:20 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='51' rating='4' otu='5' cns='7%' tags='MD4, Master Diver, Swim without Mask' divesiteid='240c9374' watersalinity='1030 g/l' date='2018-09-30' time='12:36:00' duration='56:20 min'>
+<dive number='52' rating='4' otu='5' cns='7%' tags='MD4, Master Diver, Swim without Mask' divesiteid='240c9374' date='2018-09-30' time='12:36:00' duration='56:20 min'>
   <divemaster>Alan Cooper</divemaster>
   <buddy>Alan Bews</buddy>
-  <notes>Second dive - followed very similar route to dive 50, but not going down as deep.
+  <notes>Second dive - followed very similar route to dive 48, but not going down as deep.
 
-Took opportunity while we had shore cover and out with Alan to do MD4 skill - did this without any real problem - felt like Alan was leading me round in circles but in fact we'd taken a straight line along the reef. Spend the rest of the dive having a fruitless hunt for scallops - plenty of small ones but nothing of decent size.
-
-Accumulated dive time: 0:28:49</notes>
-  <suit>Britannic Otter</suit>
-  <cylinder workpressure='198.0 bar' description='unknown' start='220.0 bar' end='60.0 bar' />
+Took opportunity while we had shore cover and out with Alan to do MD4 skill - did this without any real problem - felt like Alan was leading me round in circles but in fact we'd taken a straight line along the reef. Spend the rest of the dive having a fruitless hunt for scallops - plenty of small ones but nothing of decent size.</notes>
+  <cylinder workpressure='198.0 bar' description='unknown' />
   <divecomputer>
   <depth max='21.0 m' mean='13.162 m' />
   <temperature air='13.0 C' water='12.0 C' />
@@ -6390,7 +6330,7 @@ Accumulated dive time: 0:28:49</notes>
   <sample time='58:20 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='52' rating='5' visibility='3' wavesize='4' current='5' surge='5' chill='5' sac='21.137 l/min' otu='5' cns='4%' divesiteid='fab53179' watersalinity='1030 g/l' date='2018-10-06' time='08:49:32' duration='46:40 min'>
+<dive number='53' rating='5' otu='24' cns='8%' divesiteid='fab53179' date='2018-10-06' time='10:00:32' duration='40:00 min'>
   <divemaster>Lochaline Dive Centre</divemaster>
   <buddy>Ronnie Scrymgeor</buddy>
   <notes>Weather: Sunny
@@ -6402,298 +6342,18 @@ First ever wreck dive - Sound of Mull with Ronnie, Fiona &amp; Niamh Watson, Jam
 
 Not as dark as I'd expected - loads of fish living in and around the wreck, one wrasse followed the divers about closely, presumably awaiting food stirred up.
 
-Ronnie got me a piece of coal from the engine room.
-
-Accumulated dive time: 0:29:21</notes>
-  <cylinder size='15.0 l' workpressure='232.0 bar' description='15ℓ 232 bar' start='220.0 bar' end='50.0 bar' />
-  <divetemperature water='12.0 C'/>
-  <divecomputer>
-  <depth max='30.3 m' mean='13.954 m' />
-  <temperature air='8.0 C' water='10.0 C' />
+Ronnie got me a piece of coal from the engine room.</notes>
+  <divecomputer model='manually added dive' last-manual-time='40:00 min'>
+  <depth max='30.0 m' mean='25.627 m' />
   <sample time='0:00 min' depth='0.0 m' />
-  <sample time='0:10 min' depth='2.134 m' />
-  <sample time='0:20 min' depth='3.048 m' />
-  <sample time='0:30 min' depth='3.048 m' />
-  <sample time='0:40 min' depth='2.438 m' />
-  <sample time='0:50 min' depth='2.134 m' />
-  <sample time='1:00 min' depth='3.353 m' />
-  <sample time='1:10 min' depth='4.877 m' />
-  <sample time='1:20 min' depth='5.791 m' />
-  <sample time='1:30 min' depth='7.315 m' />
-  <sample time='1:40 min' depth='8.23 m' />
-  <sample time='1:50 min' depth='8.534 m' />
-  <sample time='2:00 min' depth='9.754 m' />
-  <sample time='2:10 min' depth='10.668 m' />
-  <sample time='2:20 min' depth='10.973 m' />
-  <sample time='2:30 min' depth='11.582 m' />
-  <sample time='2:40 min' depth='11.887 m' />
-  <sample time='2:50 min' depth='12.497 m' />
-  <sample time='3:00 min' depth='12.497 m' />
-  <sample time='3:10 min' depth='12.192 m' />
-  <sample time='3:20 min' depth='12.497 m' />
-  <sample time='3:30 min' depth='12.802 m' />
-  <sample time='3:40 min' depth='12.802 m' />
-  <sample time='3:50 min' depth='12.802 m' />
-  <sample time='4:00 min' depth='13.716 m' />
-  <sample time='4:10 min' depth='14.326 m' />
-  <sample time='4:20 min' depth='14.326 m' />
-  <sample time='4:30 min' depth='14.021 m' />
-  <sample time='4:40 min' depth='14.326 m' />
-  <sample time='4:50 min' depth='14.63 m' />
-  <sample time='5:00 min' depth='14.021 m' />
-  <sample time='5:10 min' depth='14.021 m' />
-  <sample time='5:20 min' depth='14.326 m' />
-  <sample time='5:30 min' depth='14.63 m' />
-  <sample time='5:40 min' depth='14.326 m' />
-  <sample time='5:50 min' depth='14.63 m' />
-  <sample time='6:00 min' depth='14.63 m' />
-  <sample time='6:10 min' depth='14.63 m' />
-  <sample time='6:20 min' depth='14.935 m' />
-  <sample time='6:30 min' depth='14.021 m' />
-  <sample time='6:40 min' depth='14.326 m' />
-  <sample time='6:50 min' depth='14.63 m' />
-  <sample time='7:00 min' depth='15.24 m' />
-  <sample time='7:10 min' depth='15.545 m' />
-  <sample time='7:20 min' depth='15.545 m' />
-  <sample time='7:30 min' depth='15.85 m' />
-  <sample time='7:40 min' depth='15.545 m' />
-  <sample time='7:50 min' depth='15.545 m' />
-  <sample time='8:00 min' depth='15.545 m' />
-  <sample time='8:10 min' depth='15.85 m' />
-  <sample time='8:20 min' depth='15.545 m' />
-  <sample time='8:30 min' depth='15.85 m' />
-  <sample time='8:40 min' depth='15.85 m' />
-  <sample time='8:50 min' depth='15.24 m' />
-  <sample time='9:00 min' depth='15.24 m' />
-  <sample time='9:10 min' depth='15.24 m' />
-  <sample time='9:20 min' depth='15.24 m' />
-  <sample time='9:30 min' depth='16.459 m' />
-  <sample time='9:40 min' depth='16.459 m' />
-  <sample time='9:50 min' depth='16.764 m' />
-  <sample time='10:00 min' depth='16.764 m' />
-  <sample time='10:10 min' depth='16.459 m' />
-  <sample time='10:20 min' depth='16.459 m' />
-  <sample time='10:30 min' depth='16.154 m' />
-  <sample time='10:40 min' depth='16.154 m' />
-  <sample time='10:50 min' depth='16.154 m' />
-  <sample time='11:00 min' depth='15.24 m' />
-  <sample time='11:10 min' depth='15.24 m' />
-  <sample time='11:20 min' depth='14.63 m' />
-  <sample time='11:30 min' depth='14.935 m' />
-  <sample time='11:40 min' depth='14.326 m' />
-  <sample time='11:50 min' depth='14.63 m' />
-  <sample time='12:00 min' depth='16.154 m' />
-  <sample time='12:10 min' depth='16.459 m' />
-  <sample time='12:20 min' depth='16.154 m' />
-  <sample time='12:30 min' depth='16.459 m' />
-  <sample time='12:40 min' depth='16.459 m' />
-  <sample time='12:50 min' depth='16.154 m' />
-  <sample time='13:00 min' depth='15.85 m' />
-  <sample time='13:10 min' depth='16.459 m' />
-  <sample time='13:20 min' depth='17.069 m' />
-  <sample time='13:30 min' depth='17.374 m' />
-  <sample time='13:40 min' depth='17.678 m' />
-  <sample time='13:50 min' depth='17.678 m' />
-  <sample time='14:00 min' depth='17.374 m' />
-  <sample time='14:10 min' depth='17.374 m' />
-  <sample time='14:20 min' depth='17.374 m' />
-  <sample time='14:30 min' depth='16.764 m' />
-  <sample time='14:40 min' depth='16.154 m' />
-  <sample time='14:50 min' depth='17.069 m' />
-  <sample time='15:00 min' depth='17.069 m' />
-  <sample time='15:10 min' depth='15.545 m' />
-  <sample time='15:20 min' depth='15.24 m' />
-  <sample time='15:30 min' depth='15.545 m' />
-  <sample time='15:40 min' depth='15.85 m' />
-  <sample time='15:50 min' depth='15.545 m' />
-  <sample time='16:00 min' depth='15.545 m' />
-  <sample time='16:10 min' depth='15.545 m' />
-  <sample time='16:20 min' depth='15.85 m' />
-  <sample time='16:30 min' depth='16.154 m' />
-  <sample time='16:40 min' depth='15.85 m' />
-  <sample time='16:50 min' depth='16.154 m' />
-  <sample time='17:00 min' depth='16.154 m' />
-  <sample time='17:10 min' depth='15.24 m' />
-  <sample time='17:20 min' depth='14.935 m' />
-  <sample time='17:30 min' depth='14.935 m' />
-  <sample time='17:40 min' depth='14.935 m' />
-  <sample time='17:50 min' depth='14.326 m' />
-  <sample time='18:00 min' depth='14.935 m' />
-  <sample time='18:10 min' depth='14.935 m' />
-  <sample time='18:20 min' depth='14.326 m' />
-  <sample time='18:30 min' depth='14.021 m' />
-  <sample time='18:40 min' depth='14.021 m' />
-  <sample time='18:50 min' depth='13.716 m' />
-  <sample time='19:00 min' depth='13.411 m' />
-  <sample time='19:10 min' depth='13.411 m' />
-  <sample time='19:20 min' depth='13.716 m' />
-  <sample time='19:30 min' depth='13.716 m' />
-  <sample time='19:40 min' depth='13.716 m' />
-  <sample time='19:50 min' depth='14.021 m' />
-  <sample time='20:00 min' depth='14.326 m' />
-  <sample time='20:10 min' depth='14.63 m' />
-  <sample time='20:20 min' depth='14.63 m' />
-  <sample time='20:30 min' depth='14.63 m' />
-  <sample time='20:40 min' depth='14.326 m' />
-  <sample time='20:50 min' depth='14.021 m' />
-  <sample time='21:00 min' depth='13.411 m' />
-  <sample time='21:10 min' depth='14.021 m' />
-  <sample time='21:20 min' depth='14.021 m' />
-  <sample time='21:30 min' depth='14.326 m' />
-  <sample time='21:40 min' depth='14.326 m' />
-  <sample time='21:50 min' depth='14.326 m' />
-  <sample time='22:00 min' depth='14.326 m' />
-  <sample time='22:10 min' depth='14.326 m' />
-  <sample time='22:20 min' depth='14.935 m' />
-  <sample time='22:30 min' depth='15.545 m' />
-  <sample time='22:40 min' depth='15.545 m' />
-  <sample time='22:50 min' depth='16.459 m' />
-  <sample time='23:00 min' depth='16.459 m' />
-  <sample time='23:10 min' depth='16.764 m' />
-  <sample time='23:20 min' depth='17.069 m' />
-  <sample time='23:30 min' depth='17.678 m' />
-  <sample time='23:40 min' depth='18.288 m' />
-  <sample time='23:50 min' depth='18.288 m' />
-  <sample time='24:00 min' depth='18.593 m' />
-  <sample time='24:10 min' depth='18.593 m' />
-  <sample time='24:20 min' depth='18.593 m' />
-  <sample time='24:30 min' depth='18.898 m' />
-  <sample time='24:40 min' depth='19.507 m' />
-  <sample time='24:50 min' depth='19.812 m' />
-  <sample time='25:00 min' depth='20.117 m' />
-  <sample time='25:10 min' depth='20.422 m' />
-  <sample time='25:20 min' depth='20.422 m' />
-  <sample time='25:30 min' depth='20.422 m' />
-  <sample time='25:40 min' depth='21.031 m' />
-  <sample time='25:50 min' depth='21.336 m' />
-  <sample time='26:00 min' depth='20.726 m' />
-  <sample time='26:10 min' depth='21.031 m' />
-  <sample time='26:20 min' depth='21.336 m' />
-  <sample time='26:30 min' depth='21.336 m' />
-  <sample time='26:40 min' depth='21.336 m' />
-  <sample time='26:50 min' depth='21.336 m' />
-  <sample time='27:00 min' depth='21.031 m' />
-  <sample time='27:10 min' depth='20.726 m' />
-  <sample time='27:20 min' depth='21.031 m' />
-  <sample time='27:30 min' depth='20.726 m' />
-  <sample time='27:40 min' depth='20.726 m' />
-  <sample time='27:50 min' depth='20.726 m' />
-  <sample time='28:00 min' depth='20.726 m' />
-  <sample time='28:10 min' depth='20.726 m' />
-  <sample time='28:20 min' depth='21.031 m' />
-  <sample time='28:30 min' depth='20.726 m' />
-  <sample time='28:40 min' depth='20.117 m' />
-  <sample time='28:50 min' depth='20.117 m' />
-  <sample time='29:00 min' depth='19.812 m' />
-  <sample time='29:10 min' depth='19.202 m' />
-  <sample time='29:20 min' depth='19.202 m' />
-  <sample time='29:30 min' depth='19.202 m' />
-  <sample time='29:40 min' depth='19.507 m' />
-  <sample time='29:50 min' depth='19.202 m' />
-  <sample time='30:00 min' depth='18.898 m' />
-  <sample time='30:10 min' depth='18.593 m' />
-  <sample time='30:20 min' depth='18.898 m' />
-  <sample time='30:30 min' depth='18.898 m' />
-  <sample time='30:40 min' depth='18.593 m' />
-  <sample time='30:50 min' depth='18.593 m' />
-  <sample time='31:00 min' depth='18.288 m' />
-  <sample time='31:10 min' depth='17.983 m' />
-  <sample time='31:20 min' depth='17.678 m' />
-  <sample time='31:30 min' depth='17.983 m' />
-  <sample time='31:40 min' depth='17.983 m' />
-  <sample time='31:50 min' depth='18.288 m' />
-  <sample time='32:00 min' depth='17.983 m' />
-  <sample time='32:10 min' depth='17.983 m' />
-  <sample time='32:20 min' depth='17.374 m' />
-  <sample time='32:30 min' depth='17.374 m' />
-  <sample time='32:40 min' depth='17.069 m' />
-  <sample time='32:50 min' depth='17.069 m' />
-  <sample time='33:00 min' depth='17.069 m' />
-  <sample time='33:10 min' depth='17.069 m' />
-  <sample time='33:20 min' depth='17.069 m' />
-  <sample time='33:30 min' depth='16.764 m' />
-  <sample time='33:40 min' depth='16.764 m' />
-  <sample time='33:50 min' depth='16.764 m' />
-  <sample time='34:00 min' depth='16.764 m' />
-  <sample time='34:10 min' depth='16.764 m' />
-  <sample time='34:20 min' depth='16.459 m' />
-  <sample time='34:30 min' depth='15.85 m' />
-  <sample time='34:40 min' depth='15.85 m' />
-  <sample time='34:50 min' depth='15.85 m' />
-  <sample time='35:00 min' depth='15.24 m' />
-  <sample time='35:10 min' depth='14.935 m' />
-  <sample time='35:20 min' depth='14.935 m' />
-  <sample time='35:30 min' depth='15.24 m' />
-  <sample time='35:40 min' depth='15.24 m' />
-  <sample time='35:50 min' depth='14.63 m' />
-  <sample time='36:00 min' depth='14.326 m' />
-  <sample time='36:10 min' depth='14.021 m' />
-  <sample time='36:20 min' depth='13.716 m' />
-  <sample time='36:30 min' depth='13.411 m' />
-  <sample time='36:40 min' depth='13.106 m' />
-  <sample time='36:50 min' depth='12.802 m' />
-  <sample time='37:00 min' depth='13.106 m' />
-  <sample time='37:10 min' depth='12.802 m' />
-  <sample time='37:20 min' depth='12.192 m' />
-  <sample time='37:30 min' depth='11.582 m' />
-  <sample time='37:40 min' depth='10.973 m' />
-  <sample time='37:50 min' depth='10.973 m' />
-  <sample time='38:00 min' depth='10.668 m' />
-  <sample time='38:10 min' depth='10.668 m' />
-  <sample time='38:20 min' depth='10.363 m' />
-  <sample time='38:30 min' depth='9.754 m' />
-  <sample time='38:40 min' depth='9.754 m' />
-  <sample time='38:50 min' depth='9.449 m' />
-  <sample time='39:00 min' depth='9.449 m' />
-  <sample time='39:10 min' depth='10.058 m' />
-  <sample time='39:20 min' depth='10.058 m' />
-  <sample time='39:30 min' depth='9.449 m' />
-  <sample time='39:40 min' depth='9.754 m' />
-  <sample time='39:50 min' depth='9.754 m' />
-  <sample time='40:00 min' depth='9.754 m' />
-  <sample time='40:10 min' depth='9.449 m' />
-  <sample time='40:20 min' depth='8.839 m' />
-  <sample time='40:30 min' depth='7.925 m' />
-  <sample time='40:40 min' depth='7.925 m' />
-  <sample time='40:50 min' depth='7.62 m' />
-  <sample time='41:00 min' depth='7.62 m' />
-  <sample time='41:10 min' depth='7.62 m' />
-  <sample time='41:20 min' depth='7.62 m' />
-  <sample time='41:30 min' depth='7.01 m' />
-  <sample time='41:40 min' depth='7.01 m' />
-  <sample time='41:50 min' depth='7.62 m' />
-  <sample time='42:00 min' depth='7.315 m' />
-  <sample time='42:10 min' depth='7.315 m' />
-  <sample time='42:20 min' depth='7.01 m' />
-  <sample time='42:30 min' depth='6.706 m' />
-  <sample time='42:40 min' depth='6.401 m' />
-  <sample time='42:50 min' depth='6.401 m' />
-  <sample time='43:00 min' depth='6.706 m' />
-  <sample time='43:10 min' depth='7.315 m' />
-  <sample time='43:20 min' depth='7.62 m' />
-  <sample time='43:30 min' depth='7.62 m' />
-  <sample time='43:40 min' depth='7.315 m' />
-  <sample time='43:50 min' depth='7.01 m' />
-  <sample time='44:00 min' depth='7.01 m' />
-  <sample time='44:10 min' depth='6.401 m' />
-  <sample time='44:20 min' depth='6.401 m' />
-  <sample time='44:30 min' depth='5.791 m' />
-  <sample time='44:40 min' depth='5.486 m' />
-  <sample time='44:50 min' depth='5.486 m' />
-  <sample time='45:00 min' depth='5.182 m' />
-  <sample time='45:10 min' depth='4.572 m' />
-  <sample time='45:20 min' depth='3.962 m' />
-  <sample time='45:30 min' depth='3.353 m' />
-  <sample time='45:40 min' depth='3.353 m' />
-  <sample time='45:50 min' depth='3.048 m' />
-  <sample time='46:00 min' depth='2.743 m' />
-  <sample time='46:10 min' depth='2.438 m' />
-  <sample time='46:20 min' depth='3.048 m' />
-  <sample time='46:30 min' depth='2.743 m' />
-  <sample time='46:40 min' depth='0.0 m' />
+  <sample time='3:20 min' depth='30.0 m' />
+  <sample time='33:40 min' depth='30.0 m' />
+  <sample time='36:27 min' depth='5.0 m' />
+  <sample time='39:27 min' depth='5.0 m' />
+  <sample time='40:00 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='53' rating='5' otu='23' cns='8%' divesiteid=' 72e103f' date='2018-10-06' time='13:30:49' duration='43:00 min'>
+<dive number='54' rating='5' otu='23' cns='10%' divesiteid=' 72e103f' date='2018-10-06' time='13:30:49' duration='37:00 min'>
   <divemaster>Lochaline Dive Centre</divemaster>
   <buddy>Ronnie Scrymgeor, Fiona Watson</buddy>
   <notes>Weather: Sunny
@@ -6704,21 +6364,18 @@ Temp: 12
 2nd site of the day was the Thesis. Only really the hull remains, meaning you could go go in and out of sections as the hull plates are on the sea bed.
 Some huge pollock live in and around the hull.
 
-Prior to the dive we were taken round some of the inaccessible rocks on the coast of Mull where was saw young seals and there mum and skipper also managed to feed two Eagles who swooped in from the coast to collect fish he'd thrown in.
-
-
-Accumulated dive time: 0:30:19</notes>
+Prior to the dive we were taken round some of the inaccessible rocks on the coast of Mull where was saw young seals and there mum and skipper also managed to feed two Eagles who swooped in from the coast to collect fish he'd thrown in.</notes>
   <divecomputer model='manually added dive' last-manual-time='37:00 min'>
-  <depth max='31.1 m' mean='22.795 m' />
+  <depth max='31.1 m' mean='26.086 m' />
   <sample time='0:00 min' depth='0.0 m' />
   <sample time='3:27 min' depth='31.1 m' />
   <sample time='30:33 min' depth='31.1 m' />
   <sample time='33:27 min' depth='5.0 m' />
   <sample time='36:27 min' depth='5.0 m' />
-  <sample time='43:00 min' depth='0.0 m' />
+  <sample time='37:00 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='54' rating='5' otu='16' cns='10%' divesiteid='e4603e6f' date='2018-10-06' time='15:19:59' duration='33:00 min'>
+<dive number='55' rating='5' otu='16' cns='11%' divesiteid='e4603e6f' date='2018-10-06' time='15:19:59' duration='33:00 min'>
   <divemaster>Lochaline Dive Centre</divemaster>
   <buddy>Ronnie Scrymgeor</buddy>
   <notes>Weather: Sunny
@@ -6726,9 +6383,7 @@ Sea: Calm
 Visibility: 8m
 Temp: 12
 
-Hugely impressive wreck absolutely covered in life, colourful coral everywhere. Did my first swimthrough of a reasonably small doorway under Ronnie's careful watch.
-
-Accumulated dive time: 0:00:00</notes>
+Hugely impressive wreck absolutely covered in life, colourful coral everywhere. Did my first swimthrough of a reasonably small doorway under Ronnie's careful watch.</notes>
   <divecomputer model='manually added dive' last-manual-time='33:00 min'>
   <depth max='27.0 m' mean='22.548 m' />
   <sample time='0:00 min' depth='0.0 m' />
@@ -6739,7 +6394,7 @@ Accumulated dive time: 0:00:00</notes>
   <sample time='33:00 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='55' rating='5' otu='14' cns='6%' divesiteid='d35d701a' date='2018-10-07' time='09:50:00' duration='53:40 min'>
+<dive number='56' rating='5' otu='14' cns='6%' divesiteid='d35d701a' date='2018-10-07' time='09:50:00' duration='53:40 min'>
   <divemaster>Morvern / Locachaline Dive Centre</divemaster>
   <buddy>Thomas Duff, Alan Bews</buddy>
   <notes>Weather: Rainy
@@ -6747,10 +6402,7 @@ Sea: Choppy
 Visibility: 8m
 Temp: 12
 
-Due to conditions, skipper decided to come into some sheltered bays for todays dives.
-
-
-Accumulated dive time: 0:00:00</notes>
+Due to conditions, skipper decided to come into some sheltered bays for todays dives.</notes>
   <cylinder workpressure='198.0 bar' description='unknown' />
   <divecomputer>
   <depth max='32.0 m' mean='17.412 m' />
@@ -7095,10 +6747,9 @@ Accumulated dive time: 0:00:00</notes>
   <sample time='56:10 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='56' rating='5' otu='13' cns='7%' divesiteid='ee921b8d' date='2018-10-07' time='13:00:00' duration='43:10 min'>
+<dive number='57' rating='5' otu='13' cns='7%' divesiteid='ee921b8d' date='2018-10-07' time='13:00:00' duration='43:10 min'>
   <divemaster>Lochaline Dive Centre</divemaster>
   <buddy>Thomas Duff, Alan Bews</buddy>
-  <notes>Accumulated dive time: 0:00:00</notes>
   <cylinder workpressure='198.0 bar' />
   <divecomputer>
   <depth max='32.9 m' mean='18.063 m' />
@@ -7365,7 +7016,570 @@ Accumulated dive time: 0:00:00</notes>
   <sample time='43:10 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='57' rating='5' sac='17.429 l/min' otu='5' cns='2%' divesiteid='240c9374' date='2019-01-19' time='11:47:00' duration='40:30 min'>
+<dive number='58' rating='5' otu='5' cns='4%' date='2018-11-25' time='11:12:00' duration='46:40 min'>
+  <cylinder workpressure='198.0 bar' description='unknown' />
+  <divecomputer>
+  <depth max='21.3 m' mean='13.954 m' />
+  <temperature air='8.0 C' water='10.0 C' />
+  <sample time='0:00 min' depth='0.0 m' />
+  <sample time='0:10 min' depth='2.134 m' />
+  <sample time='0:20 min' depth='3.048 m' />
+  <sample time='0:30 min' depth='3.048 m' />
+  <sample time='0:40 min' depth='2.438 m' />
+  <sample time='0:50 min' depth='2.134 m' />
+  <sample time='1:00 min' depth='3.353 m' />
+  <sample time='1:10 min' depth='4.877 m' />
+  <sample time='1:20 min' depth='5.791 m' />
+  <sample time='1:30 min' depth='7.315 m' />
+  <sample time='1:40 min' depth='8.23 m' />
+  <sample time='1:50 min' depth='8.534 m' />
+  <sample time='2:00 min' depth='9.754 m' />
+  <sample time='2:10 min' depth='10.668 m' />
+  <sample time='2:20 min' depth='10.973 m' />
+  <sample time='2:30 min' depth='11.582 m' />
+  <sample time='2:40 min' depth='11.887 m' />
+  <sample time='2:50 min' depth='12.497 m' />
+  <sample time='3:00 min' depth='12.497 m' />
+  <sample time='3:10 min' depth='12.192 m' />
+  <sample time='3:20 min' depth='12.497 m' />
+  <sample time='3:30 min' depth='12.802 m' />
+  <sample time='3:40 min' depth='12.802 m' />
+  <sample time='3:50 min' depth='12.802 m' />
+  <sample time='4:00 min' depth='13.716 m' />
+  <sample time='4:10 min' depth='14.326 m' />
+  <sample time='4:20 min' depth='14.326 m' />
+  <sample time='4:30 min' depth='14.021 m' />
+  <sample time='4:40 min' depth='14.326 m' />
+  <sample time='4:50 min' depth='14.63 m' />
+  <sample time='5:00 min' depth='14.021 m' />
+  <sample time='5:10 min' depth='14.021 m' />
+  <sample time='5:20 min' depth='14.326 m' />
+  <sample time='5:30 min' depth='14.63 m' />
+  <sample time='5:40 min' depth='14.326 m' />
+  <sample time='5:50 min' depth='14.63 m' />
+  <sample time='6:00 min' depth='14.63 m' />
+  <sample time='6:10 min' depth='14.63 m' />
+  <sample time='6:20 min' depth='14.935 m' />
+  <sample time='6:30 min' depth='14.021 m' />
+  <sample time='6:40 min' depth='14.326 m' />
+  <sample time='6:50 min' depth='14.63 m' />
+  <sample time='7:00 min' depth='15.24 m' />
+  <sample time='7:10 min' depth='15.545 m' />
+  <sample time='7:20 min' depth='15.545 m' />
+  <sample time='7:30 min' depth='15.85 m' />
+  <sample time='7:40 min' depth='15.545 m' />
+  <sample time='7:50 min' depth='15.545 m' />
+  <sample time='8:00 min' depth='15.545 m' />
+  <sample time='8:10 min' depth='15.85 m' />
+  <sample time='8:20 min' depth='15.545 m' />
+  <sample time='8:30 min' depth='15.85 m' />
+  <sample time='8:40 min' depth='15.85 m' />
+  <sample time='8:50 min' depth='15.24 m' />
+  <sample time='9:00 min' depth='15.24 m' />
+  <sample time='9:10 min' depth='15.24 m' />
+  <sample time='9:20 min' depth='15.24 m' />
+  <sample time='9:30 min' depth='16.459 m' />
+  <sample time='9:40 min' depth='16.459 m' />
+  <sample time='9:50 min' depth='16.764 m' />
+  <sample time='10:00 min' depth='16.764 m' />
+  <sample time='10:10 min' depth='16.459 m' />
+  <sample time='10:20 min' depth='16.459 m' />
+  <sample time='10:30 min' depth='16.154 m' />
+  <sample time='10:40 min' depth='16.154 m' />
+  <sample time='10:50 min' depth='16.154 m' />
+  <sample time='11:00 min' depth='15.24 m' />
+  <sample time='11:10 min' depth='15.24 m' />
+  <sample time='11:20 min' depth='14.63 m' />
+  <sample time='11:30 min' depth='14.935 m' />
+  <sample time='11:40 min' depth='14.326 m' />
+  <sample time='11:50 min' depth='14.63 m' />
+  <sample time='12:00 min' depth='16.154 m' />
+  <sample time='12:10 min' depth='16.459 m' />
+  <sample time='12:20 min' depth='16.154 m' />
+  <sample time='12:30 min' depth='16.459 m' />
+  <sample time='12:40 min' depth='16.459 m' />
+  <sample time='12:50 min' depth='16.154 m' />
+  <sample time='13:00 min' depth='15.85 m' />
+  <sample time='13:10 min' depth='16.459 m' />
+  <sample time='13:20 min' depth='17.069 m' />
+  <sample time='13:30 min' depth='17.374 m' />
+  <sample time='13:40 min' depth='17.678 m' />
+  <sample time='13:50 min' depth='17.678 m' />
+  <sample time='14:00 min' depth='17.374 m' />
+  <sample time='14:10 min' depth='17.374 m' />
+  <sample time='14:20 min' depth='17.374 m' />
+  <sample time='14:30 min' depth='16.764 m' />
+  <sample time='14:40 min' depth='16.154 m' />
+  <sample time='14:50 min' depth='17.069 m' />
+  <sample time='15:00 min' depth='17.069 m' />
+  <sample time='15:10 min' depth='15.545 m' />
+  <sample time='15:20 min' depth='15.24 m' />
+  <sample time='15:30 min' depth='15.545 m' />
+  <sample time='15:40 min' depth='15.85 m' />
+  <sample time='15:50 min' depth='15.545 m' />
+  <sample time='16:00 min' depth='15.545 m' />
+  <sample time='16:10 min' depth='15.545 m' />
+  <sample time='16:20 min' depth='15.85 m' />
+  <sample time='16:30 min' depth='16.154 m' />
+  <sample time='16:40 min' depth='15.85 m' />
+  <sample time='16:50 min' depth='16.154 m' />
+  <sample time='17:00 min' depth='16.154 m' />
+  <sample time='17:10 min' depth='15.24 m' />
+  <sample time='17:20 min' depth='14.935 m' />
+  <sample time='17:30 min' depth='14.935 m' />
+  <sample time='17:40 min' depth='14.935 m' />
+  <sample time='17:50 min' depth='14.326 m' />
+  <sample time='18:00 min' depth='14.935 m' />
+  <sample time='18:10 min' depth='14.935 m' />
+  <sample time='18:20 min' depth='14.326 m' />
+  <sample time='18:30 min' depth='14.021 m' />
+  <sample time='18:40 min' depth='14.021 m' />
+  <sample time='18:50 min' depth='13.716 m' />
+  <sample time='19:00 min' depth='13.411 m' />
+  <sample time='19:10 min' depth='13.411 m' />
+  <sample time='19:20 min' depth='13.716 m' />
+  <sample time='19:30 min' depth='13.716 m' />
+  <sample time='19:40 min' depth='13.716 m' />
+  <sample time='19:50 min' depth='14.021 m' />
+  <sample time='20:00 min' depth='14.326 m' />
+  <sample time='20:10 min' depth='14.63 m' />
+  <sample time='20:20 min' depth='14.63 m' />
+  <sample time='20:30 min' depth='14.63 m' />
+  <sample time='20:40 min' depth='14.326 m' />
+  <sample time='20:50 min' depth='14.021 m' />
+  <sample time='21:00 min' depth='13.411 m' />
+  <sample time='21:10 min' depth='14.021 m' />
+  <sample time='21:20 min' depth='14.021 m' />
+  <sample time='21:30 min' depth='14.326 m' />
+  <sample time='21:40 min' depth='14.326 m' />
+  <sample time='21:50 min' depth='14.326 m' />
+  <sample time='22:00 min' depth='14.326 m' />
+  <sample time='22:10 min' depth='14.326 m' />
+  <sample time='22:20 min' depth='14.935 m' />
+  <sample time='22:30 min' depth='15.545 m' />
+  <sample time='22:40 min' depth='15.545 m' />
+  <sample time='22:50 min' depth='16.459 m' />
+  <sample time='23:00 min' depth='16.459 m' />
+  <sample time='23:10 min' depth='16.764 m' />
+  <sample time='23:20 min' depth='17.069 m' />
+  <sample time='23:30 min' depth='17.678 m' />
+  <sample time='23:40 min' depth='18.288 m' />
+  <sample time='23:50 min' depth='18.288 m' />
+  <sample time='24:00 min' depth='18.593 m' />
+  <sample time='24:10 min' depth='18.593 m' />
+  <sample time='24:20 min' depth='18.593 m' />
+  <sample time='24:30 min' depth='18.898 m' />
+  <sample time='24:40 min' depth='19.507 m' />
+  <sample time='24:50 min' depth='19.812 m' />
+  <sample time='25:00 min' depth='20.117 m' />
+  <sample time='25:10 min' depth='20.422 m' />
+  <sample time='25:20 min' depth='20.422 m' />
+  <sample time='25:30 min' depth='20.422 m' />
+  <sample time='25:40 min' depth='21.031 m' />
+  <sample time='25:50 min' depth='21.336 m' />
+  <sample time='26:00 min' depth='20.726 m' />
+  <sample time='26:10 min' depth='21.031 m' />
+  <sample time='26:20 min' depth='21.336 m' />
+  <sample time='26:30 min' depth='21.336 m' />
+  <sample time='26:40 min' depth='21.336 m' />
+  <sample time='26:50 min' depth='21.336 m' />
+  <sample time='27:00 min' depth='21.031 m' />
+  <sample time='27:10 min' depth='20.726 m' />
+  <sample time='27:20 min' depth='21.031 m' />
+  <sample time='27:30 min' depth='20.726 m' />
+  <sample time='27:40 min' depth='20.726 m' />
+  <sample time='27:50 min' depth='20.726 m' />
+  <sample time='28:00 min' depth='20.726 m' />
+  <sample time='28:10 min' depth='20.726 m' />
+  <sample time='28:20 min' depth='21.031 m' />
+  <sample time='28:30 min' depth='20.726 m' />
+  <sample time='28:40 min' depth='20.117 m' />
+  <sample time='28:50 min' depth='20.117 m' />
+  <sample time='29:00 min' depth='19.812 m' />
+  <sample time='29:10 min' depth='19.202 m' />
+  <sample time='29:20 min' depth='19.202 m' />
+  <sample time='29:30 min' depth='19.202 m' />
+  <sample time='29:40 min' depth='19.507 m' />
+  <sample time='29:50 min' depth='19.202 m' />
+  <sample time='30:00 min' depth='18.898 m' />
+  <sample time='30:10 min' depth='18.593 m' />
+  <sample time='30:20 min' depth='18.898 m' />
+  <sample time='30:30 min' depth='18.898 m' />
+  <sample time='30:40 min' depth='18.593 m' />
+  <sample time='30:50 min' depth='18.593 m' />
+  <sample time='31:00 min' depth='18.288 m' />
+  <sample time='31:10 min' depth='17.983 m' />
+  <sample time='31:20 min' depth='17.678 m' />
+  <sample time='31:30 min' depth='17.983 m' />
+  <sample time='31:40 min' depth='17.983 m' />
+  <sample time='31:50 min' depth='18.288 m' />
+  <sample time='32:00 min' depth='17.983 m' />
+  <sample time='32:10 min' depth='17.983 m' />
+  <sample time='32:20 min' depth='17.374 m' />
+  <sample time='32:30 min' depth='17.374 m' />
+  <sample time='32:40 min' depth='17.069 m' />
+  <sample time='32:50 min' depth='17.069 m' />
+  <sample time='33:00 min' depth='17.069 m' />
+  <sample time='33:10 min' depth='17.069 m' />
+  <sample time='33:20 min' depth='17.069 m' />
+  <sample time='33:30 min' depth='16.764 m' />
+  <sample time='33:40 min' depth='16.764 m' />
+  <sample time='33:50 min' depth='16.764 m' />
+  <sample time='34:00 min' depth='16.764 m' />
+  <sample time='34:10 min' depth='16.764 m' />
+  <sample time='34:20 min' depth='16.459 m' />
+  <sample time='34:30 min' depth='15.85 m' />
+  <sample time='34:40 min' depth='15.85 m' />
+  <sample time='34:50 min' depth='15.85 m' />
+  <sample time='35:00 min' depth='15.24 m' />
+  <sample time='35:10 min' depth='14.935 m' />
+  <sample time='35:20 min' depth='14.935 m' />
+  <sample time='35:30 min' depth='15.24 m' />
+  <sample time='35:40 min' depth='15.24 m' />
+  <sample time='35:50 min' depth='14.63 m' />
+  <sample time='36:00 min' depth='14.326 m' />
+  <sample time='36:10 min' depth='14.021 m' />
+  <sample time='36:20 min' depth='13.716 m' />
+  <sample time='36:30 min' depth='13.411 m' />
+  <sample time='36:40 min' depth='13.106 m' />
+  <sample time='36:50 min' depth='12.802 m' />
+  <sample time='37:00 min' depth='13.106 m' />
+  <sample time='37:10 min' depth='12.802 m' />
+  <sample time='37:20 min' depth='12.192 m' />
+  <sample time='37:30 min' depth='11.582 m' />
+  <sample time='37:40 min' depth='10.973 m' />
+  <sample time='37:50 min' depth='10.973 m' />
+  <sample time='38:00 min' depth='10.668 m' />
+  <sample time='38:10 min' depth='10.668 m' />
+  <sample time='38:20 min' depth='10.363 m' />
+  <sample time='38:30 min' depth='9.754 m' />
+  <sample time='38:40 min' depth='9.754 m' />
+  <sample time='38:50 min' depth='9.449 m' />
+  <sample time='39:00 min' depth='9.449 m' />
+  <sample time='39:10 min' depth='10.058 m' />
+  <sample time='39:20 min' depth='10.058 m' />
+  <sample time='39:30 min' depth='9.449 m' />
+  <sample time='39:40 min' depth='9.754 m' />
+  <sample time='39:50 min' depth='9.754 m' />
+  <sample time='40:00 min' depth='9.754 m' />
+  <sample time='40:10 min' depth='9.449 m' />
+  <sample time='40:20 min' depth='8.839 m' />
+  <sample time='40:30 min' depth='7.925 m' />
+  <sample time='40:40 min' depth='7.925 m' />
+  <sample time='40:50 min' depth='7.62 m' />
+  <sample time='41:00 min' depth='7.62 m' />
+  <sample time='41:10 min' depth='7.62 m' />
+  <sample time='41:20 min' depth='7.62 m' />
+  <sample time='41:30 min' depth='7.01 m' />
+  <sample time='41:40 min' depth='7.01 m' />
+  <sample time='41:50 min' depth='7.62 m' />
+  <sample time='42:00 min' depth='7.315 m' />
+  <sample time='42:10 min' depth='7.315 m' />
+  <sample time='42:20 min' depth='7.01 m' />
+  <sample time='42:30 min' depth='6.706 m' />
+  <sample time='42:40 min' depth='6.401 m' />
+  <sample time='42:50 min' depth='6.401 m' />
+  <sample time='43:00 min' depth='6.706 m' />
+  <sample time='43:10 min' depth='7.315 m' />
+  <sample time='43:20 min' depth='7.62 m' />
+  <sample time='43:30 min' depth='7.62 m' />
+  <sample time='43:40 min' depth='7.315 m' />
+  <sample time='43:50 min' depth='7.01 m' />
+  <sample time='44:00 min' depth='7.01 m' />
+  <sample time='44:10 min' depth='6.401 m' />
+  <sample time='44:20 min' depth='6.401 m' />
+  <sample time='44:30 min' depth='5.791 m' />
+  <sample time='44:40 min' depth='5.486 m' />
+  <sample time='44:50 min' depth='5.486 m' />
+  <sample time='45:00 min' depth='5.182 m' />
+  <sample time='45:10 min' depth='4.572 m' />
+  <sample time='45:20 min' depth='3.962 m' />
+  <sample time='45:30 min' depth='3.353 m' />
+  <sample time='45:40 min' depth='3.353 m' />
+  <sample time='45:50 min' depth='3.048 m' />
+  <sample time='46:00 min' depth='2.743 m' />
+  <sample time='46:10 min' depth='2.438 m' />
+  <sample time='46:20 min' depth='3.048 m' />
+  <sample time='46:30 min' depth='2.743 m' />
+  <sample time='46:40 min' depth='0.0 m' />
+  </divecomputer>
+</dive>
+<dive number='59' rating='5' otu='3' cns='5%' date='2018-11-25' time='13:23:00' duration='44:30 min'>
+  <cylinder workpressure='198.0 bar' description='unknown' />
+  <divecomputer>
+  <depth max='20.7 m' mean='12.287 m' />
+  <temperature air='9.0 C' water='10.0 C' />
+  <sample time='0:00 min' depth='0.0 m' />
+  <sample time='0:10 min' depth='2.134 m' />
+  <sample time='0:20 min' depth='1.829 m' />
+  <sample time='0:30 min' depth='2.134 m' />
+  <sample time='0:40 min' depth='2.134 m' />
+  <sample time='0:50 min' depth='2.134 m' />
+  <sample time='1:00 min' depth='2.438 m' />
+  <sample time='1:10 min' depth='2.438 m' />
+  <sample time='1:20 min' depth='2.438 m' />
+  <sample time='1:30 min' depth='2.743 m' />
+  <sample time='1:40 min' depth='2.743 m' />
+  <sample time='1:50 min' depth='3.048 m' />
+  <sample time='2:00 min' depth='3.353 m' />
+  <sample time='2:10 min' depth='3.353 m' />
+  <sample time='2:20 min' depth='3.048 m' />
+  <sample time='2:30 min' depth='3.048 m' />
+  <sample time='2:40 min' depth='3.353 m' />
+  <sample time='2:50 min' depth='4.877 m' />
+  <sample time='3:00 min' depth='5.486 m' />
+  <sample time='3:10 min' depth='6.706 m' />
+  <sample time='3:20 min' depth='8.23 m' />
+  <sample time='3:30 min' depth='9.449 m' />
+  <sample time='3:40 min' depth='9.754 m' />
+  <sample time='3:50 min' depth='10.363 m' />
+  <sample time='4:00 min' depth='11.278 m' />
+  <sample time='4:10 min' depth='11.582 m' />
+  <sample time='4:20 min' depth='12.192 m' />
+  <sample time='4:30 min' depth='12.497 m' />
+  <sample time='4:40 min' depth='12.802 m' />
+  <sample time='4:50 min' depth='13.106 m' />
+  <sample time='5:00 min' depth='13.106 m' />
+  <sample time='5:10 min' depth='13.106 m' />
+  <sample time='5:20 min' depth='13.411 m' />
+  <sample time='5:30 min' depth='13.411 m' />
+  <sample time='5:40 min' depth='13.411 m' />
+  <sample time='5:50 min' depth='13.411 m' />
+  <sample time='6:00 min' depth='13.411 m' />
+  <sample time='6:10 min' depth='14.021 m' />
+  <sample time='6:20 min' depth='14.021 m' />
+  <sample time='6:30 min' depth='14.021 m' />
+  <sample time='6:40 min' depth='14.326 m' />
+  <sample time='6:50 min' depth='14.935 m' />
+  <sample time='7:00 min' depth='15.545 m' />
+  <sample time='7:10 min' depth='15.85 m' />
+  <sample time='7:20 min' depth='15.545 m' />
+  <sample time='7:30 min' depth='16.154 m' />
+  <sample time='7:40 min' depth='16.764 m' />
+  <sample time='7:50 min' depth='17.069 m' />
+  <sample time='8:00 min' depth='17.069 m' />
+  <sample time='8:10 min' depth='17.069 m' />
+  <sample time='8:20 min' depth='17.678 m' />
+  <sample time='8:30 min' depth='18.593 m' />
+  <sample time='8:40 min' depth='18.898 m' />
+  <sample time='8:50 min' depth='18.898 m' />
+  <sample time='9:00 min' depth='19.507 m' />
+  <sample time='9:10 min' depth='20.117 m' />
+  <sample time='9:20 min' depth='20.117 m' />
+  <sample time='9:30 min' depth='20.117 m' />
+  <sample time='9:40 min' depth='20.117 m' />
+  <sample time='9:50 min' depth='20.117 m' />
+  <sample time='10:00 min' depth='20.117 m' />
+  <sample time='10:10 min' depth='20.117 m' />
+  <sample time='10:20 min' depth='20.422 m' />
+  <sample time='10:30 min' depth='20.726 m' />
+  <sample time='10:40 min' depth='20.726 m' />
+  <sample time='10:50 min' depth='20.422 m' />
+  <sample time='11:00 min' depth='19.507 m' />
+  <sample time='11:10 min' depth='18.593 m' />
+  <sample time='11:20 min' depth='17.374 m' />
+  <sample time='11:30 min' depth='17.069 m' />
+  <sample time='11:40 min' depth='17.374 m' />
+  <sample time='11:50 min' depth='17.374 m' />
+  <sample time='12:00 min' depth='17.678 m' />
+  <sample time='12:10 min' depth='17.678 m' />
+  <sample time='12:20 min' depth='18.288 m' />
+  <sample time='12:30 min' depth='17.983 m' />
+  <sample time='12:40 min' depth='17.374 m' />
+  <sample time='12:50 min' depth='16.154 m' />
+  <sample time='13:00 min' depth='15.545 m' />
+  <sample time='13:10 min' depth='15.24 m' />
+  <sample time='13:20 min' depth='14.935 m' />
+  <sample time='13:30 min' depth='15.545 m' />
+  <sample time='13:40 min' depth='15.545 m' />
+  <sample time='13:50 min' depth='15.24 m' />
+  <sample time='14:00 min' depth='15.24 m' />
+  <sample time='14:10 min' depth='13.716 m' />
+  <sample time='14:20 min' depth='12.497 m' />
+  <sample time='14:30 min' depth='11.887 m' />
+  <sample time='14:40 min' depth='11.887 m' />
+  <sample time='14:50 min' depth='11.582 m' />
+  <sample time='15:00 min' depth='11.278 m' />
+  <sample time='15:10 min' depth='11.887 m' />
+  <sample time='15:20 min' depth='12.192 m' />
+  <sample time='15:30 min' depth='11.887 m' />
+  <sample time='15:40 min' depth='11.887 m' />
+  <sample time='15:50 min' depth='12.192 m' />
+  <sample time='16:00 min' depth='12.802 m' />
+  <sample time='16:10 min' depth='12.802 m' />
+  <sample time='16:20 min' depth='12.802 m' />
+  <sample time='16:30 min' depth='12.497 m' />
+  <sample time='16:40 min' depth='11.582 m' />
+  <sample time='16:50 min' depth='11.278 m' />
+  <sample time='17:00 min' depth='11.582 m' />
+  <sample time='17:10 min' depth='11.582 m' />
+  <sample time='17:20 min' depth='11.278 m' />
+  <sample time='17:30 min' depth='11.278 m' />
+  <sample time='17:40 min' depth='11.582 m' />
+  <sample time='17:50 min' depth='11.887 m' />
+  <sample time='18:00 min' depth='11.887 m' />
+  <sample time='18:10 min' depth='12.497 m' />
+  <sample time='18:20 min' depth='13.106 m' />
+  <sample time='18:30 min' depth='13.106 m' />
+  <sample time='18:40 min' depth='13.106 m' />
+  <sample time='18:50 min' depth='13.411 m' />
+  <sample time='19:00 min' depth='13.411 m' />
+  <sample time='19:10 min' depth='13.411 m' />
+  <sample time='19:20 min' depth='12.802 m' />
+  <sample time='19:30 min' depth='12.192 m' />
+  <sample time='19:40 min' depth='13.716 m' />
+  <sample time='19:50 min' depth='14.326 m' />
+  <sample time='20:00 min' depth='14.326 m' />
+  <sample time='20:10 min' depth='14.021 m' />
+  <sample time='20:20 min' depth='13.716 m' />
+  <sample time='20:30 min' depth='14.021 m' />
+  <sample time='20:40 min' depth='14.021 m' />
+  <sample time='20:50 min' depth='13.716 m' />
+  <sample time='21:00 min' depth='13.716 m' />
+  <sample time='21:10 min' depth='13.716 m' />
+  <sample time='21:20 min' depth='13.716 m' />
+  <sample time='21:30 min' depth='14.021 m' />
+  <sample time='21:40 min' depth='14.021 m' />
+  <sample time='21:50 min' depth='14.021 m' />
+  <sample time='22:00 min' depth='14.021 m' />
+  <sample time='22:10 min' depth='13.716 m' />
+  <sample time='22:20 min' depth='14.021 m' />
+  <sample time='22:30 min' depth='13.716 m' />
+  <sample time='22:40 min' depth='14.021 m' />
+  <sample time='22:50 min' depth='14.021 m' />
+  <sample time='23:00 min' depth='14.326 m' />
+  <sample time='23:10 min' depth='14.326 m' />
+  <sample time='23:20 min' depth='13.716 m' />
+  <sample time='23:30 min' depth='13.411 m' />
+  <sample time='23:40 min' depth='13.106 m' />
+  <sample time='23:50 min' depth='13.106 m' />
+  <sample time='24:00 min' depth='13.106 m' />
+  <sample time='24:10 min' depth='13.106 m' />
+  <sample time='24:20 min' depth='13.411 m' />
+  <sample time='24:30 min' depth='12.802 m' />
+  <sample time='24:40 min' depth='13.106 m' />
+  <sample time='24:50 min' depth='13.411 m' />
+  <sample time='25:00 min' depth='13.106 m' />
+  <sample time='25:10 min' depth='13.106 m' />
+  <sample time='25:20 min' depth='13.106 m' />
+  <sample time='25:30 min' depth='12.802 m' />
+  <sample time='25:40 min' depth='12.497 m' />
+  <sample time='25:50 min' depth='12.192 m' />
+  <sample time='26:00 min' depth='11.582 m' />
+  <sample time='26:10 min' depth='11.582 m' />
+  <sample time='26:20 min' depth='11.887 m' />
+  <sample time='26:30 min' depth='12.192 m' />
+  <sample time='26:40 min' depth='12.192 m' />
+  <sample time='26:50 min' depth='12.497 m' />
+  <sample time='27:00 min' depth='13.106 m' />
+  <sample time='27:10 min' depth='13.716 m' />
+  <sample time='27:20 min' depth='13.716 m' />
+  <sample time='27:30 min' depth='14.021 m' />
+  <sample time='27:40 min' depth='14.63 m' />
+  <sample time='27:50 min' depth='15.545 m' />
+  <sample time='28:00 min' depth='15.85 m' />
+  <sample time='28:10 min' depth='16.459 m' />
+  <sample time='28:20 min' depth='16.764 m' />
+  <sample time='28:30 min' depth='16.459 m' />
+  <sample time='28:40 min' depth='16.459 m' />
+  <sample time='28:50 min' depth='17.069 m' />
+  <sample time='29:00 min' depth='17.069 m' />
+  <sample time='29:10 min' depth='17.069 m' />
+  <sample time='29:20 min' depth='17.374 m' />
+  <sample time='29:30 min' depth='17.678 m' />
+  <sample time='29:40 min' depth='18.288 m' />
+  <sample time='29:50 min' depth='18.288 m' />
+  <sample time='30:00 min' depth='17.678 m' />
+  <sample time='30:10 min' depth='17.069 m' />
+  <sample time='30:20 min' depth='16.764 m' />
+  <sample time='30:30 min' depth='16.764 m' />
+  <sample time='30:40 min' depth='16.459 m' />
+  <sample time='30:50 min' depth='16.459 m' />
+  <sample time='31:00 min' depth='16.459 m' />
+  <sample time='31:10 min' depth='16.459 m' />
+  <sample time='31:20 min' depth='17.069 m' />
+  <sample time='31:30 min' depth='17.069 m' />
+  <sample time='31:40 min' depth='17.069 m' />
+  <sample time='31:50 min' depth='16.459 m' />
+  <sample time='32:00 min' depth='15.85 m' />
+  <sample time='32:10 min' depth='15.545 m' />
+  <sample time='32:20 min' depth='15.545 m' />
+  <sample time='32:30 min' depth='15.24 m' />
+  <sample time='32:40 min' depth='14.63 m' />
+  <sample time='32:50 min' depth='14.326 m' />
+  <sample time='33:00 min' depth='14.021 m' />
+  <sample time='33:10 min' depth='14.021 m' />
+  <sample time='33:20 min' depth='13.716 m' />
+  <sample time='33:30 min' depth='13.716 m' />
+  <sample time='33:40 min' depth='13.716 m' />
+  <sample time='33:50 min' depth='13.716 m' />
+  <sample time='34:00 min' depth='14.021 m' />
+  <sample time='34:10 min' depth='13.716 m' />
+  <sample time='34:20 min' depth='13.411 m' />
+  <sample time='34:30 min' depth='12.802 m' />
+  <sample time='34:40 min' depth='12.497 m' />
+  <sample time='34:50 min' depth='12.497 m' />
+  <sample time='35:00 min' depth='12.192 m' />
+  <sample time='35:10 min' depth='11.582 m' />
+  <sample time='35:20 min' depth='11.582 m' />
+  <sample time='35:30 min' depth='11.278 m' />
+  <sample time='35:40 min' depth='10.668 m' />
+  <sample time='35:50 min' depth='10.668 m' />
+  <sample time='36:00 min' depth='10.973 m' />
+  <sample time='36:10 min' depth='10.668 m' />
+  <sample time='36:20 min' depth='10.058 m' />
+  <sample time='36:30 min' depth='9.754 m' />
+  <sample time='36:40 min' depth='9.449 m' />
+  <sample time='36:50 min' depth='10.363 m' />
+  <sample time='37:00 min' depth='11.278 m' />
+  <sample time='37:10 min' depth='11.278 m' />
+  <sample time='37:20 min' depth='11.887 m' />
+  <sample time='37:30 min' depth='12.802 m' />
+  <sample time='37:40 min' depth='13.411 m' />
+  <sample time='37:50 min' depth='13.716 m' />
+  <sample time='38:00 min' depth='14.021 m' />
+  <sample time='38:10 min' depth='13.716 m' />
+  <sample time='38:20 min' depth='13.106 m' />
+  <sample time='38:30 min' depth='12.192 m' />
+  <sample time='38:40 min' depth='11.582 m' />
+  <sample time='38:50 min' depth='10.668 m' />
+  <sample time='39:00 min' depth='9.754 m' />
+  <sample time='39:10 min' depth='9.144 m' />
+  <sample time='39:20 min' depth='8.534 m' />
+  <sample time='39:30 min' depth='8.23 m' />
+  <sample time='39:40 min' depth='7.925 m' />
+  <sample time='39:50 min' depth='6.706 m' />
+  <sample time='40:00 min' depth='6.706 m' />
+  <sample time='40:10 min' depth='6.401 m' />
+  <sample time='40:20 min' depth='5.182 m' />
+  <sample time='40:30 min' depth='4.267 m' />
+  <sample time='40:40 min' depth='4.572 m' />
+  <sample time='40:50 min' depth='4.572 m' />
+  <sample time='41:00 min' depth='5.182 m' />
+  <sample time='41:10 min' depth='4.877 m' />
+  <sample time='41:20 min' depth='4.877 m' />
+  <sample time='41:30 min' depth='4.877 m' />
+  <sample time='41:40 min' depth='5.182 m' />
+  <sample time='41:50 min' depth='5.486 m' />
+  <sample time='42:00 min' depth='5.486 m' />
+  <sample time='42:10 min' depth='5.486 m' />
+  <sample time='42:20 min' depth='4.877 m' />
+  <sample time='42:30 min' depth='4.267 m' />
+  <sample time='42:40 min' depth='3.353 m' />
+  <sample time='42:50 min' depth='3.353 m' />
+  <sample time='43:00 min' depth='3.048 m' />
+  <sample time='43:10 min' depth='2.743 m' />
+  <sample time='43:20 min' depth='2.438 m' />
+  <sample time='43:30 min' depth='2.438 m' />
+  <sample time='43:40 min' depth='2.438 m' />
+  <sample time='43:50 min' depth='2.438 m' />
+  <sample time='44:00 min' depth='2.438 m' />
+  <sample time='44:10 min' depth='1.524 m' />
+  <sample time='44:20 min' depth='2.743 m' />
+  <sample time='44:30 min' depth='0.0 m' />
+  </divecomputer>
+</dive>
+<dive number='60' rating='5' sac='17.429 l/min' otu='5' cns='2%' divesiteid='240c9374' date='2019-01-19' time='11:47:00' duration='40:30 min'>
   <buddy>Lauren Ramage</buddy>
   <notes>20 Metre Ascent?</notes>
   <cylinder size='12.0 l' workpressure='232.0 bar' description='12ℓ 232 bar' start='210.0 bar' end='70.0 bar' />
@@ -7618,7 +7832,7 @@ Accumulated dive time: 0:00:00</notes>
   <sample time='40:30 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='58' rating='5' otu='8' cns='4%' divesiteid='240c9374' date='2019-01-19' time='14:11:00' duration='36:10 min'>
+<dive number='61' rating='5' otu='8' cns='4%' divesiteid='240c9374' date='2019-01-19' time='14:11:00' duration='36:10 min'>
   <buddy>Lauren Ramage</buddy>
   <cylinder size='15.0 l' workpressure='232.0 bar' description='15ℓ 232 bar' />
   <divecomputer>
@@ -7844,7 +8058,7 @@ Accumulated dive time: 0:00:00</notes>
   <sample time='36:10 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='59' rating='5' sac='20.537 l/min' otu='9' cns='4%' divesiteid='952daba9' date='2019-01-27' time='10:15:00' duration='29:00 min'>
+<dive number='62' rating='5' sac='20.537 l/min' otu='9' cns='4%' divesiteid='952daba9' date='2019-01-27' time='10:15:00' duration='29:00 min'>
   <buddy>Lauren Ramage</buddy>
   <notes>First die at Craggen for myself, Russell Leitch, Harvey Williamson and Lauren Ramage.
 Quiet training dive,
@@ -8044,7 +8258,7 @@ All in all, a pretty unenjoyable dive.</notes>
   <sample time='29:00 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='60' rating='5' sac='51.503 l/min' otu='6' cns='4%' tags='30M Assisted Ascent as Donor, MD7, Master Diver' divesiteid='952daba9' date='2019-01-27' time='12:21:00' duration='25:40 min'>
+<dive number='63' rating='5' sac='51.503 l/min' otu='6' cns='4%' tags='30M Assisted Ascent as Donor, MD7, Master Diver' divesiteid='952daba9' date='2019-01-27' time='12:21:00' duration='25:40 min'>
   <buddy>Harvey Williamson</buddy>
   <notes>By the time of the second dive of the day tide had started coming in and visibility had improved a bit.
 
@@ -8214,7 +8428,7 @@ For the whole five the only real life of interest were some young dogfish dotted
   <sample time='25:40 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='61' rating='5' sac='11.672 l/min' otu='1' cns='3%' divesiteid='28fda69b' date='2019-02-10' time='11:22:00' duration='41:50 min'>
+<dive number='64' rating='5' sac='11.672 l/min' otu='1' cns='3%' divesiteid='28fda69b' date='2019-02-10' time='11:22:00' duration='41:50 min'>
   <buddy>George Martin</buddy>
   <notes>Day at St Catherine's pier with Gordon Laing, Russell Leith, Harvey Williamson, Donald Ralston, Kyle McArdle, Kerry Russell, Steve Very &amp; George Martin. Also with the Mrtin &amp; Laing families who were on a pyromaniacal mission most of the day,
 
@@ -8505,7 +8719,7 @@ Weighted well</notes>
   <sample time='41:50 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='62' rating='5' sac='26.168 l/min' cns='2%' divesiteid='28fda69b' date='2019-02-10' time='14:12:00' duration='40:00 min'>
+<dive number='65' rating='5' sac='26.168 l/min' cns='2%' divesiteid='28fda69b' date='2019-02-10' time='14:12:00' duration='40:00 min'>
   <buddy>George Martin</buddy>
   <notes>2nd dive of the day.
 
@@ -8762,7 +8976,7 @@ Turned out we'd come in rather short, current running different way slightly per
   <sample time='40:00 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='63' rating='5' otu='12' cns='4%' divesiteid='189b9777' date='2019-02-17' time='12:56:00' duration='30:10 min'>
+<dive number='66' rating='5' otu='12' cns='4%' divesiteid='189b9777' date='2019-02-17' time='12:56:00' duration='30:10 min'>
   <buddy>Harvey Williamson</buddy>
   <cylinder workpressure='198.0 bar' description='unknown' />
   <divecomputer>
@@ -8952,7 +9166,7 @@ Turned out we'd come in rather short, current running different way slightly per
   <sample time='30:10 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='64' rating='5' otu='2' cns='2%' divesiteid='189b9777' date='2019-02-17' time='19:45:00' duration='32:10 min'>
+<dive number='67' rating='5' otu='2' cns='2%' divesiteid='189b9777' date='2019-02-17' time='19:45:00' duration='32:10 min'>
   <buddy>Harvey Williamson</buddy>
   <cylinder workpressure='198.0 bar' description='unknown' />
   <divecomputer>
@@ -9154,7 +9368,7 @@ Turned out we'd come in rather short, current running different way slightly per
   <sample time='32:10 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='65' rating='4' otu='8' cns='4%' divesiteid='189b9778' date='2019-03-17' time='10:32:00' duration='39:10 min'>
+<dive number='68' rating='4' otu='8' cns='4%' divesiteid='189b9778' date='2019-03-17' time='10:32:00' duration='39:10 min'>
   <buddy>Harvey Williamson</buddy>
   <notes>Fun trip to A frames with Alan Bews, Harvey Williamson and Pamela Morley.
 
@@ -9401,7 +9615,7 @@ Very standard dive over the now very familar A Frames</notes>
   <sample time='39:10 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='66' rating='5' otu='2' cns='3%' date='2019-03-17' time='12:46:00' duration='35:40 min'>
+<dive number='69' rating='5' otu='2' cns='3%' date='2019-03-17' time='12:46:00' duration='35:40 min'>
   <cylinder workpressure='198.0 bar' description='unknown' />
   <divecomputer>
   <depth max='20.4 m' mean='10.876 m' />
@@ -9623,7 +9837,7 @@ Very standard dive over the now very familar A Frames</notes>
   <sample time='35:40 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='67' rating='5' otu='1' cns='1%' date='2019-03-24' time='09:26:00' duration='37:40 min'>
+<dive number='70' rating='5' otu='1' cns='1%' date='2019-03-24' time='09:26:00' duration='37:40 min'>
   <cylinder workpressure='198.0 bar' description='unknown' />
   <divecomputer>
   <depth max='19.2 m' mean='10.134 m' />
@@ -9857,7 +10071,7 @@ Very standard dive over the now very familar A Frames</notes>
   <sample time='37:40 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='68' rating='5' otu='1' cns='2%' date='2019-03-24' time='11:26:00' duration='38:10 min'>
+<dive number='71' rating='5' otu='1' cns='2%' date='2019-03-24' time='11:26:00' duration='38:10 min'>
   <cylinder workpressure='198.0 bar' description='unknown' />
   <divecomputer>
   <depth max='17.7 m' mean='11.091 m' />
@@ -10094,7 +10308,7 @@ Very standard dive over the now very familar A Frames</notes>
   <sample time='38:10 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='69' rating='5' otu='9' cns='3%' divesiteid='49a52f0e' date='2019-04-04' time='09:52:00' duration='37:50 min'>
+<dive number='72' rating='5' otu='9' cns='3%' divesiteid='49a52f0e' date='2019-04-04' time='09:52:00' duration='37:50 min'>
   <divemaster>Maltaqua</divemaster>
   <buddy>Danny O'Reilly,</buddy>
   <notes>Weather: Sunny slightly overcast, stiff breeze
@@ -10351,7 +10565,7 @@ Back in was mirror of trip out, but came up a rocky beach rather than try and ne
   <picture filename='C:/Users/AlanCooper/Desktop/maltaqua malta.jpeg' offset='+652368:54 min'/>
   <picture filename='C:/Users/AlanCooper/Desktop/diveparty.jpg' offset='+1634736:08 min'/>
 </dive>
-<dive number='70' rating='5' otu='10' cns='6%' divesiteid='2cd86957' date='2019-04-04' time='12:03:00' duration='48:40 min'>
+<dive number='73' rating='5' otu='10' cns='6%' divesiteid='2cd86957' date='2019-04-04' time='12:03:00' duration='48:40 min'>
   <divemaster>Maltaqua</divemaster>
   <buddy>Danny O'Reilly</buddy>
   <notes>Second dive of the day, very similar type of dive to the P29, but the tug itself has been sunken a lot longer and is a sturdier, less impressive boat but loads of wildlife, much was which was very playful.
@@ -10656,7 +10870,7 @@ Stopped off for a beer on the way back, where one of the senior dive masters ask
   <sample time='48:40 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='71' rating='5' otu='6' cns='3%' date='2019-05-05' time='10:02:00' duration='44:50 min'>
+<dive number='74' rating='5' otu='6' cns='3%' date='2019-05-05' time='10:02:00' duration='44:50 min'>
   <cylinder workpressure='198.0 bar' description='unknown' />
   <divecomputer>
   <depth max='27.4 m' mean='12.858 m' />
@@ -10933,7 +11147,7 @@ Stopped off for a beer on the way back, where one of the senior dive masters ask
   <sample time='44:50 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='72' rating='5' cns='2%' date='2019-05-05' time='12:23:00' duration='30:20 min'>
+<dive number='75' rating='5' cns='2%' date='2019-05-05' time='12:23:00' duration='30:20 min'>
   <cylinder workpressure='198.0 bar' description='unknown' />
   <divecomputer>
   <depth max='12.2 m' mean='8.163 m' />
@@ -11123,7 +11337,7 @@ Stopped off for a beer on the way back, where one of the senior dive masters ask
   <sample time='30:20 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='73' rating='5' otu='12' cns='5%' date='2019-05-26' time='10:47:00' duration='34:40 min'>
+<dive number='76' rating='5' otu='12' cns='5%' date='2019-05-26' time='10:47:00' duration='34:40 min'>
   <cylinder workpressure='198.0 bar' description='unknown' />
   <divecomputer>
   <depth max='32.3 m' mean='19.52 m' />
@@ -11339,7 +11553,7 @@ Stopped off for a beer on the way back, where one of the senior dive masters ask
   <sample time='34:40 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='74' rating='5' otu='6' cns='6%' date='2019-05-26' time='12:47:00' duration='34:40 min'>
+<dive number='77' rating='5' otu='6' cns='6%' date='2019-05-26' time='12:47:00' duration='34:40 min'>
   <cylinder workpressure='198.0 bar' description='unknown' />
   <divecomputer>
   <depth max='25.9 m' mean='15.192 m' />
@@ -11555,7 +11769,7 @@ Stopped off for a beer on the way back, where one of the senior dive masters ask
   <sample time='34:40 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='75' rating='5' otu='14' cns='5%' date='2019-06-01' time='10:35:00' duration='47:00 min'>
+<dive number='78' rating='5' otu='14' cns='5%' date='2019-06-01' time='10:35:00' duration='47:00 min'>
   <cylinder workpressure='198.0 bar' description='unknown' />
   <divecomputer>
   <depth max='31.1 m' mean='16.647 m' />
@@ -11845,7 +12059,7 @@ Stopped off for a beer on the way back, where one of the senior dive masters ask
   <sample time='47:00 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='76' rating='5' otu='8' cns='7%' date='2019-06-01' time='12:42:00' duration='59:10 min'>
+<dive number='79' rating='5' otu='8' cns='7%' date='2019-06-01' time='12:42:00' duration='59:10 min'>
   <cylinder workpressure='198.0 bar' description='unknown' />
   <divecomputer>
   <depth max='23.2 m' mean='13.666 m' />
@@ -12208,7 +12422,7 @@ Stopped off for a beer on the way back, where one of the senior dive masters ask
   <sample time='59:10 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='77' rating='5' otu='8' cns='4%' date='2019-06-16' time='08:42:00' duration='51:10 min'>
+<dive number='80' rating='5' otu='8' cns='4%' date='2019-06-16' time='08:42:00' duration='51:10 min'>
   <cylinder workpressure='198.0 bar' description='unknown' />
   <divecomputer>
   <depth max='30.2 m' mean='14.413 m' />
@@ -12523,7 +12737,7 @@ Stopped off for a beer on the way back, where one of the senior dive masters ask
   <sample time='51:10 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='78' rating='5' otu='12' cns='5%' date='2019-06-23' time='09:14:00' duration='41:50 min'>
+<dive number='81' rating='5' otu='12' cns='5%' date='2019-06-23' time='09:14:00' duration='41:50 min'>
   <cylinder workpressure='198.0 bar' description='unknown' />
   <divecomputer>
   <depth max='32.0 m' mean='17.099 m' />
@@ -12782,7 +12996,7 @@ Stopped off for a beer on the way back, where one of the senior dive masters ask
   <sample time='41:50 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='79' rating='5' otu='5' cns='4%' date='2019-06-23' time='11:22:00' duration='40:10 min'>
+<dive number='82' rating='5' otu='5' cns='4%' date='2019-06-23' time='11:22:00' duration='40:10 min'>
   <cylinder workpressure='198.0 bar' description='unknown' />
   <divecomputer>
   <depth max='27.1 m' mean='11.792 m' />
@@ -13031,7 +13245,7 @@ Stopped off for a beer on the way back, where one of the senior dive masters ask
   <sample time='40:10 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='80' rating='5' otu='21' cns='7%' divesiteid='db91dfef' date='2019-06-30' time='09:00:08' duration='45:00 min'>
+<dive number='83' rating='5' otu='21' cns='7%' divesiteid='db91dfef' date='2019-06-30' time='09:00:08' duration='45:00 min'>
   <divemaster>Billy Shiels Tours</divemaster>
   <buddy>Vincent Green</buddy>
   <notes>Club group trip to Farne Islands.
@@ -13051,7 +13265,7 @@ Buddied up with Vince and had an amazing dive and saw loads of seals playing.</n
   <sample time='45:00 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='81' rating='5' otu='14' cns='9%' divesiteid='db91dff0' date='2019-06-30' time='12:00:23' duration='50:00 min'>
+<dive number='84' rating='5' otu='14' cns='9%' divesiteid='db91dff0' date='2019-06-30' time='12:00:23' duration='50:00 min'>
   <divemaster>Billy Shiels Tours</divemaster>
   <buddy>Vincent Green</buddy>
   <notes>After a nice trip round the puffins had a second dive.
@@ -13075,7 +13289,7 @@ Got a phone call later in teh week to say it was found but it was never returned
   <sample time='50:00 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='82' rating='5' otu='11' cns='4%' divesiteid='ca746929' date='2019-07-09' time='10:26:00' duration='41:30 min'>
+<dive number='85' rating='5' otu='11' cns='4%' divesiteid='ca746929' date='2019-07-09' time='10:26:00' duration='41:30 min'>
   <divemaster>Valerie Williams</divemaster>
   <buddy>Kimberley Cunningham</buddy>
   <notes>Kimberleys first dive since last October, first with Lanzarote Dive Centre who picked us up and took us to Play Chica.
@@ -13173,7 +13387,7 @@ Lovely relaxed dive with no isues</notes>
   <sample time='41:30 min' depth='1.41 m' />
   </divecomputer>
 </dive>
-<dive number='83' rating='5' otu='7' cns='6%' divesiteid='ca746929' date='2019-07-09' time='12:09:00' duration='41:30 min'>
+<dive number='86' rating='5' otu='7' cns='6%' divesiteid='ca746929' date='2019-07-09' time='12:09:00' duration='41:30 min'>
   <divemaster>Valerie Williams</divemaster>
   <buddy>Kimberley Cunningham</buddy>
   <notes>Second dive of the day, as before, beach entry from Playa Chica.
@@ -13271,7 +13485,7 @@ Another great dive, no issues.</notes>
   <sample time='41:30 min' depth='1.657 m' />
   </divecomputer>
 </dive>
-<dive number='84' rating='5' otu='10' cns='4%' divesiteid='ca74692a' date='2019-07-10' time='09:52:00' duration='34:30 min'>
+<dive number='87' rating='5' otu='10' cns='4%' divesiteid='ca74692a' date='2019-07-10' time='09:52:00' duration='34:30 min'>
   <divemaster>Valerie Williams</divemaster>
   <buddy>Kimberley Cunningham</buddy>
   <notes>Alothough listed as Playa Chica, this was actually a boat dive and further out from shore than usual as a result.
@@ -13355,7 +13569,7 @@ Saw trumpet fish, kermit crabs and shoals of the silvery bream-like fish.</notes
   <sample time='34:30 min' depth='3.829 m' />
   </divecomputer>
 </dive>
-<dive number='85' rating='5' otu='3' cns='5%' divesiteid='b7ede8b1' date='2019-07-10' time='12:05:00' duration='32:30 min'>
+<dive number='88' rating='5' otu='3' cns='5%' divesiteid='b7ede8b1' date='2019-07-10' time='12:05:00' duration='32:30 min'>
   <divemaster>Valerie Williams</divemaster>
   <buddy>Kimberley Cunningham</buddy>
   <notes>2nd boat dive of the day and another chance to explore the wrecks just off the old harbour all.
@@ -13433,7 +13647,7 @@ Again, trumpet fish, tuna and stingrays to be seen.</notes>
   <sample time='32:30 min' depth='1.905 m' />
   </divecomputer>
 </dive>
-<dive number='86' rating='5' sac='30.319 l/min' otu='12' cns='5%' divesiteid='ca746929' date='2019-07-13' time='09:20:00' duration='41:14 min'>
+<dive number='89' rating='5' sac='30.319 l/min' otu='12' cns='5%' divesiteid='ca746929' date='2019-07-13' time='09:20:00' duration='41:14 min'>
   <buddy>Kimberley Cunningham</buddy>
   <notes>Dive to The Cathedral with Valerie from LDC and Andy
 
@@ -14690,7 +14904,7 @@ Narrowly avoided going into deco on return, having crept back down to 27m</notes
   <sample time='41:14 min' depth='1.334 m' />
   </divecomputer>
 </dive>
-<dive number='87' rating='5' sac='23.421 l/min' otu='13' cns='8%' divesiteid='ca746929' date='2019-07-13' time='11:08:00' duration='53:00 min'>
+<dive number='90' rating='5' sac='23.421 l/min' otu='13' cns='8%' divesiteid='ca746929' date='2019-07-13' time='11:08:00' duration='53:00 min'>
   <buddy>Valerie Williams</buddy>
   <notes>Second dive of the day with Valerie and Andy
 
@@ -16306,7 +16520,7 @@ We continued up to 6 meters - Valeries computer showed us clear, Andy's computer
   <sample time='53:00 min' depth='1.448 m' />
   </divecomputer>
 </dive>
-<dive number='88' rating='4' sac='9.741 l/min' otu='10' cns='5%' divesiteid='9936c148' date='2019-11-10' time='09:55:39' duration='40:00 min'>
+<dive number='91' rating='4' sac='9.741 l/min' otu='10' cns='5%' divesiteid='9936c148' date='2019-11-10' time='09:55:39' duration='40:00 min'>
   <buddy>Cammy Clark</buddy>
   <notes>Weather: Sunny &amp; Cold
 Sea: Flat Calm
@@ -16330,7 +16544,7 @@ Kept everything nice and conservative and got cammy back to the surface on 80 ba
   <sample time='40:00 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='89' rating='4' sac='9.859 l/min' otu='8' cns='8%' divesiteid='9936c148' date='2019-11-10' time='12:00:45' duration='42:00 min'>
+<dive number='92' rating='4' sac='9.859 l/min' otu='8' cns='8%' divesiteid='9936c148' date='2019-11-10' time='12:00:45' duration='42:00 min'>
   <buddy>Cammy Clark</buddy>
   <notes>Weather: Sunny 
 Sea: Flat Calm
@@ -16356,7 +16570,7 @@ Turned and headed back, and did weight check with cammy at 3 to 4 metres in the 
   <sample time='42:00 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='90' rating='5' date='2020-01-19' time='12:32:00' duration='24:38 min'>
+<dive number='93' rating='5' date='2020-01-19' time='12:32:00' duration='24:38 min'>
   <cylinder workpressure='198.0 bar' description='unknown' />
   <divecomputer>
   <depth max='14.5 m' mean='10.338 m' />
@@ -17103,7 +17317,7 @@ Turned and headed back, and did weight check with cammy at 3 to 4 metres in the 
   <sample time='24:38 min' depth='2.076 m' />
   </divecomputer>
 </dive>
-<dive number='91' rating='5' divesiteid='240c9374' date='2020-01-26' time='09:59:00' duration='6:04 min'>
+<dive number='94' rating='5' divesiteid='240c9374' date='2020-01-26' time='09:59:00' duration='6:04 min'>
   <divemaster>Russell Leitch</divemaster>
   <buddy>Lauren Ramage</buddy>
   <cylinder workpressure='198.0 bar' description='unknown' />
@@ -17295,7 +17509,7 @@ Turned and headed back, and did weight check with cammy at 3 to 4 metres in the 
   <sample time='6:04 min' depth='1.753 m' />
   </divecomputer>
 </dive>
-<dive number='92' rating='5' cns='1%' divesiteid='240c9374' date='2020-01-26' time='10:58:00' duration='47:08 min'>
+<dive number='95' rating='5' cns='1%' divesiteid='240c9374' date='2020-01-26' time='10:58:00' duration='47:08 min'>
   <divemaster>Russell Leitch</divemaster>
   <buddy>Lauren Ramage</buddy>
   <cylinder workpressure='198.0 bar' description='unknown' />
@@ -18771,7 +18985,7 @@ Turned and headed back, and did weight check with cammy at 3 to 4 metres in the 
   <sample time='48:52 min' depth='1.334 m' />
   </divecomputer>
 </dive>
-<dive number='93' rating='5' otu='11' cns='5%' date='2020-02-07' time='18:57:00' duration='48:38 min'>
+<dive number='96' rating='5' otu='11' cns='5%' date='2020-02-07' time='18:57:00' duration='48:38 min'>
   <cylinder workpressure='198.0 bar' description='unknown' />
   <divecomputer>
   <depth max='26.3 m' mean='16.333 m' />
@@ -20238,7 +20452,7 @@ Turned and headed back, and did weight check with cammy at 3 to 4 metres in the 
   <sample time='48:38 min' depth='1.238 m' />
   </divecomputer>
 </dive>
-<dive number='94' rating='5' otu='2' cns='5%' date='2020-02-07' time='21:04:00' duration='38:26 min'>
+<dive number='97' rating='5' otu='2' cns='5%' date='2020-02-07' time='21:04:00' duration='38:26 min'>
   <cylinder workpressure='198.0 bar' description='unknown' />
   <divecomputer>
   <depth max='22.3 m' mean='10.414 m' />
@@ -21448,7 +21662,7 @@ Turned and headed back, and did weight check with cammy at 3 to 4 metres in the 
   <sample time='40:04 min' depth='1.619 m' />
   </divecomputer>
 </dive>
-<dive number='95' rating='5' otu='3' cns='3%' date='2020-02-23' time='10:22:00' duration='43:06 min'>
+<dive number='98' rating='5' otu='3' cns='3%' date='2020-02-23' time='10:22:00' duration='43:06 min'>
   <cylinder workpressure='198.0 bar' description='unknown' />
   <divecomputer>
   <depth max='17.7 m' mean='12.997 m' />
@@ -22749,7 +22963,7 @@ Turned and headed back, and did weight check with cammy at 3 to 4 metres in the 
   <sample time='43:06 min' depth='1.619 m' />
   </divecomputer>
 </dive>
-<dive number='96' rating='5' otu='4' cns='6%' date='2020-02-23' time='12:17:00' duration='34:36 min'>
+<dive number='99' rating='5' otu='4' cns='6%' date='2020-02-23' time='12:17:00' duration='34:36 min'>
   <cylinder workpressure='198.0 bar' description='unknown' />
   <divecomputer>
   <depth max='18.5 m' mean='14.531 m' />
@@ -23795,7 +24009,7 @@ Turned and headed back, and did weight check with cammy at 3 to 4 metres in the 
   <sample time='34:36 min' depth='1.448 m' />
   </divecomputer>
 </dive>
-<dive number='97' rating='5' sac='28.920 l/min' otu='2' cns='1%' divesiteid='549d80df' date='2021-08-15' time='09:18:00' duration='35:24 min'>
+<dive number='100' rating='5' sac='28.920 l/min' otu='2' cns='1%' divesiteid='549d80df' date='2021-08-15' time='09:18:00' duration='35:24 min'>
   <divemaster>Donald Ralston</divemaster>
   <buddy>Terry, Donald Ralston</buddy>
   <notes>Weather: Dry &amp; Still
@@ -24878,7 +25092,7 @@ After a time, Terrys mask completely flooded - he got it cleared and settled aga
   <sample time='35:24 min' depth='1.238 m' />
   </divecomputer>
 </dive>
-<dive number='98' rating='4' visibility='4' current='1' sac='18.420 l/min' otu='1' cns='2%' divesiteid='9c4f97b4' date='2021-08-15' time='11:52:00' duration='40:10 min'>
+<dive number='101' rating='4' visibility='4' current='1' sac='18.420 l/min' otu='1' cns='2%' divesiteid='9c4f97b4' date='2021-08-15' time='11:52:00' duration='40:10 min'>
   <divemaster>Donald Ralston</divemaster>
   <buddy>Alice Brodie</buddy>
   <notes>Weather: Fair
@@ -26257,7 +26471,7 @@ Had some fun taking my time making sure we didn't tangle the buoy with a small a
   <sample time='4:44 min' depth='1.543 m' />
   </divecomputer>
 </dive>
-<dive number='99' rating='4' sac='36.962 l/min' cns='1%' divesiteid='aa88895f' date='2021-08-22' time='11:26:00' duration='32:32 min'>
+<dive number='102' rating='4' sac='36.962 l/min' cns='1%' divesiteid='aa88895f' date='2021-08-22' time='11:26:00' duration='32:32 min'>
   <divemaster>Russell Leitch</divemaster>
   <buddy>Gayle</buddy>
   <notes>Fun dive with Gayle who had recently completed PADI AOW crossover.
@@ -28235,7 +28449,7 @@ Visibility was awful for most of the dive but we managed to find the wall, where
   <sample time='32:32 min' depth='1.2 m' />
   </divecomputer>
 </dive>
-<dive number='100' rating='4' sac='22.812 l/min' otu='5' cns='4%' divesiteid='19672fa9' date='2021-08-22' time='13:28:00' duration='36:28 min'>
+<dive number='103' rating='4' sac='22.812 l/min' otu='5' cns='4%' divesiteid='19672fa9' date='2021-08-22' time='13:28:00' duration='36:28 min'>
   <divemaster>Donald Ralston</divemaster>
   <buddy>Gayle</buddy>
   <notes>Pretty much same as first dive of the day, only without the false starts and confusion from the tides.
@@ -30445,7 +30659,7 @@ Temp: 13?</notes>
   <sample time='36:28 min' depth='1.5 m' />
   </divecomputer>
 </dive>
-<dive number='101' rating='5' otu='15' cns='8%' date='2021-10-14' time='07:06:00' duration='45:06 min'>
+<dive number='104' rating='5' otu='15' cns='8%' date='2021-10-14' time='07:06:00' duration='45:06 min'>
   <cylinder description='unknown' />
   <cylinder description='unknown' />
   <cylinder description='unknown' />
@@ -33173,7 +33387,7 @@ Temp: 13?</notes>
   <sample time='45:24 min' depth='1.5 m' />
   </divecomputer>
 </dive>
-<dive number='102' rating='5' otu='24' cns='13%' date='2021-10-14' time='09:32:00' duration='41:08 min'>
+<dive number='105' rating='5' otu='24' cns='13%' date='2021-10-14' time='09:32:00' duration='41:08 min'>
   <cylinder description='unknown' />
   <cylinder description='unknown' />
   <cylinder description='unknown' />
@@ -35653,7 +35867,7 @@ Temp: 13?</notes>
   <sample time='41:08 min' depth='1.2 m' />
   </divecomputer>
 </dive>
-<dive number='103' rating='2' divesiteid='d53329f2' date='2021-10-19' time='08:24:00' duration='7:04 min'>
+<dive number='106' rating='2' divesiteid='d53329f2' date='2021-10-19' time='08:24:00' duration='7:04 min'>
   <divemaster>Valerie Williams</divemaster>
   <buddy>Isla Cooper, Blair Cunningham</buddy>
   <notes>PADI DSD with Blair and Isla.
@@ -35909,7 +36123,7 @@ Tried to catch Vals attention from the surface but this was fruitless, so rafted
   <sample time='7:52 min' depth='1.905 m' />
   </divecomputer>
 </dive>
-<dive number='104' rating='5' date='2021-10-22' time='08:00:00' duration='35:28 min'>
+<dive number='107' rating='5' date='2021-10-22' time='08:00:00' duration='35:28 min'>
   <notes>DSD with Blair</notes>
   <cylinder description='unknown' />
   <cylinder description='unknown' />
@@ -37050,7 +37264,7 @@ Tried to catch Vals attention from the surface but this was fruitless, so rafted
   <sample time='37:40 min' depth='1.448 m' />
   </divecomputer>
 </dive>
-<dive number='105' rating='5' otu='8' cns='3%' divesiteid='549d80df' date='2021-10-31' time='10:48:00' duration='33:08 min'>
+<dive number='108' rating='5' otu='8' cns='3%' divesiteid='549d80df' date='2021-10-31' time='10:48:00' duration='33:08 min'>
   <cylinder description='unknown' />
   <cylinder description='unknown' />
   <cylinder description='unknown' />
@@ -38055,7 +38269,7 @@ Tried to catch Vals attention from the surface but this was fruitless, so rafted
   <sample time='33:10 min' depth='1.334 m' />
   </divecomputer>
 </dive>
-<dive number='106' rating='5' otu='1' cns='3%' date='2021-10-31' time='12:33:00' duration='35:38 min'>
+<dive number='109' rating='5' otu='1' cns='3%' date='2021-10-31' time='12:33:00' duration='35:38 min'>
   <cylinder description='unknown' />
   <cylinder description='unknown' />
   <cylinder description='unknown' />
@@ -39134,7 +39348,7 @@ Tried to catch Vals attention from the surface but this was fruitless, so rafted
   <sample time='35:38 min' depth='1.486 m' />
   </divecomputer>
 </dive>
-<dive number='107' rating='5' otu='7' cns='3%' date='2021-11-14' time='10:52:00' duration='33:30 min'>
+<dive number='110' rating='5' otu='7' cns='3%' date='2021-11-14' time='10:52:00' duration='33:30 min'>
   <cylinder description='unknown' />
   <cylinder description='unknown' />
   <cylinder description='unknown' />
@@ -40149,7 +40363,7 @@ Tried to catch Vals attention from the surface but this was fruitless, so rafted
   <sample time='33:30 min' depth='1.334 m' />
   </divecomputer>
 </dive>
-<dive number='108' rating='5' cns='2%' date='2021-11-14' time='12:41:00' duration='25:20 min'>
+<dive number='111' rating='5' cns='2%' date='2021-11-14' time='12:41:00' duration='25:20 min'>
   <cylinder description='unknown' />
   <cylinder description='unknown' />
   <cylinder description='unknown' />
@@ -40931,7 +41145,7 @@ Tried to catch Vals attention from the surface but this was fruitless, so rafted
   <sample time='25:44 min' depth='1.486 m' />
   </divecomputer>
 </dive>
-<dive number='109' rating='2' otu='6' cns='4%' divesiteid='75f6cf1d' date='2022-02-12' time='09:42:00' duration='38:46 min'>
+<dive number='112' rating='2' otu='6' cns='4%' divesiteid='75f6cf1d' date='2022-02-12' time='09:42:00' duration='38:46 min'>
   <divemaster>Jason Coles</divemaster>
   <buddy>Donald Ralston</buddy>
   <notes>Dive Organiser:  Fiona Watson
@@ -42117,7 +42331,7 @@ Great set up on boat, Jason runs the boat really well and Hot Choclate was top n
   <sample time='38:46 min' depth='1.295 m' />
   </divecomputer>
 </dive>
-<dive number='110' rating='3' sac='19.230 l/min' otu='7' cns='4%' divesiteid='abf434ba' date='2022-02-12' time='12:29:00' duration='25:44 min'>
+<dive number='113' rating='3' sac='19.230 l/min' otu='7' cns='4%' divesiteid='abf434ba' date='2022-02-12' time='12:29:00' duration='25:44 min'>
   <divemaster>Jason Coles</divemaster>
   <buddy>Donald Ralston</buddy>
   <notes>Dive Organiser:  Fiona Watson
@@ -42910,7 +43124,7 @@ General Notes: Dive with Donald - dropped down shot line to the Avrella with Don
   <sample time='25:44 min' depth='1.372 m' />
   </divecomputer>
 </dive>
-<dive number='111' rating='3' sac='17.086 l/min' otu='2' cns='1%' tags='post-covid' divesiteid='189b9777' date='2022-03-05' time='08:45:00' duration='35:14 min'>
+<dive number='114' rating='3' sac='17.086 l/min' otu='2' cns='1%' tags='post-covid' divesiteid='189b9777' date='2022-03-05' time='08:45:00' duration='35:14 min'>
   <divemaster>Russell Leitch</divemaster>
   <buddy>Donald Ralston, Peter Kennedy</buddy>
   <notes>Dive Organiser:  Russel Leitch
@@ -43987,7 +44201,7 @@ Learnings: Covid definitely has affected diving slightly - lung capacity is defi
   <sample time='35:14 min' depth='2.1 m' />
   </divecomputer>
 </dive>
-<dive number='112' rating='3' cns='1%' divesiteid='635ec2f5' date='2022-03-05' time='11:36:00' duration='34:32 min'>
+<dive number='115' rating='3' cns='1%' divesiteid='635ec2f5' date='2022-03-05' time='11:36:00' duration='34:32 min'>
   <divemaster>Russell Leitch</divemaster>
   <buddy>Peter Kennedy</buddy>
   <notes>Second dive of the day, led the Dive with Peter, a recently qualified branch diver.
@@ -45060,7 +45274,7 @@ Swithered about extending diver for another sweep over the reef but was a little
   <sample time='35:08 min' depth='1.334 m' />
   </divecomputer>
 </dive>
-<dive number='113' rating='3' sac='18.172 l/min' otu='4' cns='3%' tags='Expedition Organisation, MD1, Master Diver' divesiteid='549d80df' date='2022-03-15' time='12:08:00' duration='43:28 min'>
+<dive number='116' rating='3' sac='18.172 l/min' otu='4' cns='3%' tags='Expedition Organisation, MD1, Master Diver' divesiteid='549d80df' date='2022-03-15' time='12:08:00' duration='43:28 min'>
   <divemaster>Alan Cooper</divemaster>
   <buddy>Alice Brodie</buddy>
   <notes>Day's diving with Steve Very, Paul Cornwell, Alice Brodie and Alan Cooper.
@@ -46390,7 +46604,7 @@ Did find a cylinder insert on a rock that it transpired had been left there by a
   <sample time='43:28 min' depth='1.238 m' />
   </divecomputer>
 </dive>
-<dive number='114' rating='4' current='1' sac='19.598 l/min' otu='1' cns='3%' tags='Fun' divesiteid='549d80df' date='2022-03-15' time='14:08:00' duration='39:56 min'>
+<dive number='117' rating='4' current='1' sac='19.598 l/min' otu='1' cns='3%' tags='Fun' divesiteid='549d80df' date='2022-03-15' time='14:08:00' duration='39:56 min'>
   <divemaster>Alan Cooper</divemaster>
   <buddy>Alice Brodie</buddy>
   <notes>First "flexi" day taken from Exizent that allowed a fun dive with Steve Very, Paul Cornwell and Alice Brodie at Conger Alley.
@@ -47605,7 +47819,7 @@ Nice bimble across a familiar reef - no wildlife of any exceptional note - one l
   <sample time='39:56 min' depth='1.41 m' />
   </divecomputer>
 </dive>
-<dive number='115' rating='1' visibility='4' current='1' sac='17.413 l/min' otu='6' cns='3%' tags='Master Diver' divesiteid='635ec2f5' date='2022-04-30' time='09:21:00' duration='40:44 min'>
+<dive number='118' rating='1' visibility='4' current='1' sac='17.413 l/min' otu='6' cns='3%' tags='Master Diver' divesiteid='635ec2f5' date='2022-04-30' time='09:21:00' duration='40:44 min'>
   <divemaster>Alan Bews</divemaster>
   <buddy>James Johnson, Alan Bews</buddy>
   <notes>Day at Seal Reef to try and get some Master Diver skills signed off.
@@ -48957,7 +49171,7 @@ Alice and Steve reported seeing dolphins and seal while we were under.</notes>
   <sample time='44:20 min' depth='1.334 m' />
   </divecomputer>
 </dive>
-<dive number='116' rating='1' visibility='4' current='2' sac='22.663 l/min' otu='8' cns='4%' tags='Master Diver' divesiteid='635ec2f5' date='2022-04-30' time='11:35:00' duration='21:08 min'>
+<dive number='119' rating='1' visibility='4' current='2' sac='22.663 l/min' otu='8' cns='4%' tags='Master Diver' divesiteid='635ec2f5' date='2022-04-30' time='11:35:00' duration='21:08 min'>
   <divemaster>Alan Bews</divemaster>
   <buddy>Alan Bews, James Johnson</buddy>
   <notes>Attempt two of the day to caryr out 30 shared ascent.
@@ -49614,7 +49828,7 @@ Can safely say I was not over-weighted on either dive - explained this on surfac
   <sample time='21:08 min' depth='1.486 m' />
   </divecomputer>
 </dive>
-<dive number='117' rating='3' visibility='4' current='2' sac='29.905 l/min' otu='3' cns='4%' divesiteid='5e906e1b' date='2022-05-07' time='10:27:00' duration='43:22 min'>
+<dive number='120' rating='3' visibility='4' current='2' sac='29.905 l/min' otu='3' cns='4%' divesiteid='5e906e1b' date='2022-05-07' time='10:27:00' duration='43:22 min'>
   <divemaster>Derek Anderson</divemaster>
   <buddy>Terry Hatcher</buddy>
   <notes>Diving from MV Oceanic.
@@ -50940,7 +51154,7 @@ Bit of fast ascent before and after 6m stop, but not uncontrolled, bouyancy not 
   <sample time='43:22 min' depth='1.238 m' />
   </divecomputer>
 </dive>
-<dive number='118' rating='5' sac='7.734 l/min' otu='5' cns='2%' tags='Master Diver' divesiteid=' f22e6b3' date='2022-05-14' time='08:27:00' duration='20:04 min'>
+<dive number='121' rating='5' sac='7.734 l/min' otu='5' cns='2%' tags='Master Diver' divesiteid=' f22e6b3' date='2022-05-14' time='08:27:00' duration='20:04 min'>
   <divemaster>Russell Leitch</divemaster>
   <buddy>Russell Leitch, Alan Bews</buddy>
   <notes>Quick dive to complete shared ascent (recipient) with Russell as donor and Alan Bews observing.
@@ -51395,7 +51609,7 @@ Came up with Russell nice and easy, gentle kick up when neededgot us lifting and
   <sample time='20:15 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='119' rating='5' sac='15.338 l/min' otu='5' cns='4%' divesiteid='ad6b67c5' date='2022-05-14' time='09:20:00' duration='32:34 min'>
+<dive number='122' rating='5' sac='15.338 l/min' otu='5' cns='4%' divesiteid='ad6b67c5' date='2022-05-14' time='09:20:00' duration='32:34 min'>
   <divemaster>Russell Leitch</divemaster>
   <buddy>Russell Leitch</buddy>
   <notes>Fun dive after shared assist - shored dive from twin piers - out and to the reef on left as usual.
@@ -52392,7 +52606,7 @@ Really nice relaxed dive - probably the best and most comfortable I've felt unde
   <sample time='32:36 min' depth='0.0 m' />
   </divecomputer>
 </dive>
-<dive number='120' rating='5' sac='17.080 l/min' otu='2' cns='5%' tags='Master Diver' divesiteid=' f22e6b3' date='2022-05-14' time='10:38:00' duration='40:54 min'>
+<dive number='123' rating='5' sac='17.080 l/min' otu='2' cns='5%' tags='Master Diver' divesiteid=' f22e6b3' date='2022-05-14' time='10:38:00' duration='40:54 min'>
   <divemaster>Russell Leitch</divemaster>
   <buddy>Russell Leitch, Alan Bews</buddy>
   <notes>Skills dive followed by bimble.
@@ -53642,7 +53856,7 @@ Again loads of life, even more congers including one that was absolutely huge (c
   <sample time='40:54 min' depth='1.372 m' />
   </divecomputer>
 </dive>
-<dive number='121' rating='3' visibility='2' current='5' sac='14.476 l/min' otu='5' cns='3%' divesiteid='9936c148' date='2022-06-11' time='09:41:00' duration='46:38 min'>
+<dive number='124' rating='3' visibility='2' current='5' sac='14.476 l/min' otu='5' cns='3%' divesiteid='9936c148' date='2022-06-11' time='09:41:00' duration='46:38 min'>
   <divemaster>Alan Bews</divemaster>
   <buddy>Alice Brodie</buddy>
   <notes>Dougie Turnbull Driving in big van on a wet, miserable and slightly windy June saturday morning.
@@ -55085,7 +55299,7 @@ Alice had been indicating something up with her suit inflator - turns out she ha
   <sample time='47:16 min' depth='1.41 m' />
   </divecomputer>
 </dive>
-<dive number='122' rating='3' visibility='1' sac='16.713 l/min' cns='2%' tags='BI Training' divesiteid='9936c148' date='2022-06-11' time='11:36:00' duration='32:24 min'>
+<dive number='125' rating='3' visibility='1' sac='16.713 l/min' cns='2%' tags='BI Training' divesiteid='9936c148' date='2022-06-11' time='11:36:00' duration='32:24 min'>
   <divemaster>Alan Bews</divemaster>
   <buddy>Alan Bews, Dougie Turnbull</buddy>
   <notes>Second dive of the day - As Alice had gotten wet on previous dive, we were down to three - Alan B was keen to get Dougie in for his 6th dive so he can get his BD qualification and wanted me to take on as instructor with Alan supervising us both.
@@ -56087,7 +56301,7 @@ Couple of brief moments on way back in about 5m when I thought Dougie might be g
   <sample time='32:32 min' depth='1.372 m' temp='11.111 C' />
   </divecomputer>
 </dive>
-<dive number='123' rating='5' sac='15.787 l/min' otu='1' cns='1%' divesiteid='189b9777' date='2022-07-02' time='08:42:00' duration='45:30 min'>
+<dive number='126' rating='5' sac='15.787 l/min' otu='1' cns='1%' divesiteid='189b9777' date='2022-07-02' time='08:42:00' duration='45:30 min'>
   <divemaster>Donald Ralston</divemaster>
   <buddy>Julie Kennedy</buddy>
   <notes>First divers in the water on a Saturday morning at a low tide. Fun dive with Branch Diver Julie, no skills, just experience.
@@ -57480,7 +57694,7 @@ Found our way back to the long beam - as we still had plenty air I did consider 
   <sample time='45:30 min' depth='1.448 m' />
   </divecomputer>
 </dive>
-<dive number='124' rating='5' visibility='5' current='2' sac='11.985 l/min' otu='1' cns='2%' divesiteid='189b9777' date='2022-07-02' time='10:43:00' duration='44:24 min'>
+<dive number='127' rating='5' visibility='5' current='2' sac='11.985 l/min' otu='1' cns='2%' divesiteid='189b9777' date='2022-07-02' time='10:43:00' duration='44:24 min'>
   <divemaster>Donald Ralston</divemaster>
   <buddy>Julie Kennedy</buddy>
   <notes>Second dive of the day, again with Julie as an experience dive.
@@ -58835,7 +59049,7 @@ Julie took a bit of a fall on the crumbling access steps - lesson learnt to carr
   </divecomputer>
   <picture filename='/home/alan/Downloads/unnamed.jpg' offset='+4408:21 min'/>
 </dive>
-<dive number='125' rating='5' visibility='4' sac='13.770 l/min' otu='1' cns='2%' divesiteid='635ec2f5' date='2022-07-30' time='09:06:00' duration='43:42 min'>
+<dive number='128' rating='5' visibility='4' sac='13.770 l/min' otu='1' cns='2%' divesiteid='635ec2f5' date='2022-07-30' time='09:06:00' duration='43:42 min'>
   <divemaster>Russell Leitch</divemaster>
   <buddy>Dougie Turnbull</buddy>
   <notes>Nice fun dive with Dougie
@@ -60167,7 +60381,7 @@ First dive after back spasms, only mild discomfort.</notes>
   <sample time='43:42 min' depth='1.238 m' />
   </divecomputer>
 </dive>
-<dive number='126' rating='3' visibility='3' current='3' sac='22.134 l/min' otu='1' cns='1%' tags='BI Training' divesiteid='635ec2f5' date='2022-08-21' time='09:24:00' duration='38:12 min'>
+<dive number='129' rating='3' visibility='3' current='3' sac='22.134 l/min' otu='1' cns='1%' tags='BI Training' divesiteid='635ec2f5' date='2022-08-21' time='09:24:00' duration='38:12 min'>
   <divemaster>Alan Cooper</divemaster>
   <buddy>Richard Crane, Russell Leitch, Dougie Turnbull</buddy>
   <notes>Training day at St Catherine as BI Practice. Warm, dry but dull day after early shower
@@ -61434,7 +61648,7 @@ Did SMB and as can been seen on the dive profile Richard lost his bouyancy and s
   <sample time='41:22 min' depth='1.238 m' />
   </divecomputer>
 </dive>
-<dive number='127' rating='4' sac='18.162 l/min' otu='1' cns='3%' divesiteid='635ec2f5' date='2022-08-21' time='11:09:00' duration='37:56 min'>
+<dive number='130' rating='4' sac='18.162 l/min' otu='1' cns='3%' divesiteid='635ec2f5' date='2022-08-21' time='11:09:00' duration='37:56 min'>
   <divemaster>Alan Cooper</divemaster>
   <buddy>Dougie Turnbull</buddy>
   <notes>Fun dive with Dougie no skills
@@ -62591,7 +62805,7 @@ Did mean that no need for safety "stops" just bimbled along at 6 then 3 meters a
   <sample time='37:56 min' depth='1.41 m' />
   </divecomputer>
 </dive>
-<dive number='128' rating='3' visibility='2' sac='16.896 l/min' otu='3' cns='2%' divesiteid='837001ad' date='2022-09-04' time='09:16:00' duration='38:56 min'>
+<dive number='131' rating='3' visibility='2' sac='16.896 l/min' otu='3' cns='2%' divesiteid='837001ad' date='2022-09-04' time='09:16:00' duration='38:56 min'>
   <divemaster>Lauren Ramage</divemaster>
   <buddy>Lauren Ramage</buddy>
   <notes>Dive day: Russel, Lauren, Gregor, Alice, Dougie,  Thomas + Arwen, Julie &amp; Peter Kennedy. 
@@ -63777,7 +63991,7 @@ Not a great deal to see, nice big ling hiding under a rock and few squat lobster
   <sample time='38:56 min' depth='1.372 m' />
   </divecomputer>
 </dive>
-<dive number='129' rating='4' visibility='3' sac='14.911 l/min' cns='1%' tags='BI Training' divesiteid='837001ad' date='2022-09-04' time='12:34:00' duration='34:20 min'>
+<dive number='132' rating='4' visibility='3' sac='14.911 l/min' cns='1%' tags='BI Training' divesiteid='837001ad' date='2022-09-04' time='12:34:00' duration='34:20 min'>
   <divemaster>Lauren Ramage</divemaster>
   <buddy>Gregor Scott, Russell Leitch</buddy>
   <notes>notes</notes>
@@ -64821,7 +65035,7 @@ Not a great deal to see, nice big ling hiding under a rock and few squat lobster
   <sample time='34:20 min' depth='1.238 m' />
   </divecomputer>
 </dive>
-<dive number='130' rating='5' visibility='5' otu='13' cns='5%' tags='boat' divesiteid='ad38a58a' date='2022-10-18' time='10:27:00' duration='34:52 min'>
+<dive number='133' rating='5' visibility='5' otu='13' cns='5%' tags='boat' divesiteid='ad38a58a' date='2022-10-18' time='10:27:00' duration='34:52 min'>
   <divemaster>Matthius</divemaster>
   <buddy>Kimberley Cunningham</buddy>
   <notes>Boat dive out of the harbour - typical lanza dive, loads of fish and other life but otherwise actually fairly unremarkable, which was a little disappointing.
@@ -65887,7 +66101,7 @@ Swam round the wrecks just outside the harbour and up the harbour wall to the bo
   <sample time='34:52 min' depth='1.295 m' />
   </divecomputer>
 </dive>
-<dive number='131' rating='1' otu='1' cns='3%' tags='boat, near-miss' divesiteid='888f05fa' date='2022-10-18' time='12:55:00' duration='10:54 min'>
+<dive number='134' rating='1' otu='1' cns='3%' tags='boat, near-miss' divesiteid='888f05fa' date='2022-10-18' time='12:55:00' duration='10:54 min'>
   <divemaster>Paul @ LDC</divemaster>
   <buddy>Kimberley Cunningham</buddy>
   <notes>2nd dive of the day with Kimberle guide wasnt the most informative, no idea what the site actually was, but north of harbour for about 10 minutes,
@@ -66235,7 +66449,7 @@ No harm done, no signs of DCS at any point following dive (long surface interval
   <sample time='10:54 min' depth='1.695 m' />
   </divecomputer>
 </dive>
-<dive number='132' rating='3' sac='15.114 l/min' otu='6' cns='4%' tags='Greenfaulds' divesiteid=' f22e6b3' date='2023-06-11' time='09:27:00' duration='43:40 min'>
+<dive number='135' rating='3' sac='15.114 l/min' otu='6' cns='4%' tags='Greenfaulds' divesiteid=' f22e6b3' date='2023-06-11' time='09:27:00' duration='43:40 min'>
   <divemaster>Andrew Powls</divemaster>
   <buddy>James Mcloone, Andrew Powls</buddy>
   <notes>First open water with Greenfaulds Sub Aqua Club. Met members at Robroyston P&amp;R and agreed car shares and site.
@@ -67572,7 +67786,7 @@ Good day out, rubbish dive.</notes>
   <sample time='43:40 min' depth='1.334 m' />
   </divecomputer>
 </dive>
-<dive number='133' rating='4' visibility='4' sac='15.300 l/min' otu='5' cns='2%' divesiteid='9c4f97b4' date='2023-09-10' time='10:04:00' duration='31:30 min'>
+<dive number='136' rating='4' visibility='4' sac='15.300 l/min' otu='5' cns='2%' divesiteid='9c4f97b4' date='2023-09-10' time='10:04:00' duration='31:30 min'>
   <divemaster>Bill Hamilton</divemaster>
   <buddy>Robert Ross</buddy>
   <notes>Trio with Robert and Bill
@@ -68537,7 +68751,7 @@ Great dive, loads of life, loads of guppy’s, red and black wrasse and a couple
   <sample time='31:30 min' depth='1.295 m' />
   </divecomputer>
 </dive>
-<dive number='134' rating='5' visibility='3' sac='12.678 l/min' otu='1' cns='2%' divesiteid='25f3e737' date='2023-09-10' time='12:02:00' duration='44:54 min'>
+<dive number='137' rating='5' visibility='3' sac='12.678 l/min' otu='1' cns='2%' divesiteid='25f3e737' date='2023-09-10' time='12:02:00' duration='44:54 min'>
   <divemaster>Bill Hamilton</divemaster>
   <buddy>Robert Ross</buddy>
   <notes>Lovely second dive with no issues and lots of life to see on a gentle bimble along the reef - no discernible current, plenty vis at the depth we stayed at and warm temps made for a perfect dive.
@@ -69903,7 +70117,7 @@ Loads ofmpollock above and around us, possibly keeping out of the way of the sea
   <sample time='44:54 min' depth='1.372 m' />
   </divecomputer>
 </dive>
-<dive number='135' cns='1%' date='2024-02-04' time='12:09:00' duration='31:46 min'>
+<dive number='138' cns='1%' date='2024-02-04' time='12:09:00' duration='31:46 min'>
   <cylinder description='unknown' />
   <cylinder description='unknown' />
   <cylinder description='unknown' />
@@ -70866,7 +71080,7 @@ Loads ofmpollock above and around us, possibly keeping out of the way of the sea
   <sample time='31:46 min' depth='1.581 m' />
   </divecomputer>
 </dive>
-<dive number='136' cns='1%' date='2024-02-04' time='13:59:00' duration='36:08 min'>
+<dive number='139' cns='1%' date='2024-02-04' time='13:59:00' duration='36:08 min'>
   <cylinder description='unknown' />
   <cylinder description='unknown' />
   <cylinder description='unknown' />
@@ -71963,7 +72177,7 @@ Loads ofmpollock above and around us, possibly keeping out of the way of the sea
   <sample time='36:14 min' depth='1.41 m' />
   </divecomputer>
 </dive>
-<dive number='137' otu='4' cns='2%' divesiteid='8ea51278' date='2024-02-18' time='12:00:00' duration='34:40 min'>
+<dive number='140' otu='4' cns='2%' divesiteid='8ea51278' date='2024-02-18' time='12:00:00' duration='34:40 min'>
   <divemaster>Andrew Powls</divemaster>
   <buddy>Andrew Powls</buddy>
   <cylinder description='unknown' />
@@ -73017,7 +73231,7 @@ Loads ofmpollock above and around us, possibly keeping out of the way of the sea
   <sample time='34:44 min' depth='1.238 m' />
   </divecomputer>
 </dive>
-<dive number='138' rating='5' visibility='5' sac='13.626 l/min' otu='3' cns='3%' divesiteid='8ea51278' date='2024-02-18' time='14:00:00' duration='38:46 min'>
+<dive number='141' rating='5' visibility='5' sac='13.626 l/min' otu='3' cns='3%' divesiteid='8ea51278' date='2024-02-18' time='14:00:00' duration='38:46 min'>
   <divemaster>Andrew Powls</divemaster>
   <buddy>Andrew Powls</buddy>
   <suit>Britannic Otter</suit>
@@ -74202,7 +74416,7 @@ Loads ofmpollock above and around us, possibly keeping out of the way of the sea
   <sample time='39:04 min' depth='2.076 m' />
   </divecomputer>
 </dive>
-<dive number='139' rating='2' visibility='4' current='4' sac='19.213 l/min' divesiteid='38b6d6df' watersalinity='1030 g/l' date='2024-03-03' time='11:02:00' duration='41:46 min'>
+<dive number='142' rating='2' visibility='4' current='4' sac='19.213 l/min' divesiteid='38b6d6df' watersalinity='1030 g/l' date='2024-03-03' time='11:02:00' duration='41:46 min'>
   <divemaster>Robert Ross</divemaster>
   <buddy>Andrew Irvine</buddy>
   <notes>Tide: Low
@@ -75524,7 +75738,7 @@ During surface interval discussions, the group of 3 said they found the bouy cha
   <sample time='42:44 min' depth='1.295 m' />
   </divecomputer>
 </dive>
-<dive number='140' rating='2' visibility='3' wavesize='5' current='3' surge='5' chill='2' sac='20.240 l/min' divesiteid='38b6d6df' watersalinity='1030 g/l' date='2024-03-03' time='13:41:00' duration='38:26 min'>
+<dive number='143' rating='2' visibility='3' wavesize='5' current='3' surge='5' chill='2' sac='20.240 l/min' divesiteid='38b6d6df' watersalinity='1030 g/l' date='2024-03-03' time='13:41:00' duration='38:26 min'>
   <divemaster>Robert Ross</divemaster>
   <buddy>Andrew Irvine</buddy>
   <notes>Tide: Flood
